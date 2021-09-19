@@ -257,17 +257,17 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :----: |
 |  -          | **Apresentção dos dados em tabelas** |    |
-| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 1  |  [link](https://www.dropbox.com/s/0pxnr5bgl75u5vs/EstBasica_aula2_video1_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 2 |  [link](https://www.dropbox.com/s/bayf2vrsmif5ry1/EstBasica_aula2_video2_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 3 | [link](https://www.dropbox.com/s/1eoqskv0yy5d1ar/EstBasica_aula2_video3_3.mp4?dl=0)   |
-| Assíncrona | Slides sobre a Aula 2 | [link](https://www.dropbox.com/s/s6b2n3ys8jinltq/Aula2.pdf?dl=0)   |
+| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 1  |  [link](https://drive.google.com/file/d/12fbuxcy6udHU6wUV_jQ9-EeQxCQ4eyif/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 2 |  [link](https://drive.google.com/file/d/1HO8xjEB2LMdWA-0uYw_e9tsayDZHtqE2/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 2 - Vídeo 3 | [link](https://drive.google.com/file/d/1EocPxFLLfQfQISvuP_zcJ-UHVAUQot-W/view?usp=sharing)   |
+| Assíncrona | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1dmaVVeVi55ivVFhYZRelfRvoiI0PkirK/view?usp=sharing)   |
 |  -          | **Apresentção dos dados em gráficos** |    |
-| Assíncrona | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://www.dropbox.com/s/qdz8ozj59hy1n67/EstBasica_aula3_video1_2.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://www.dropbox.com/s/3f91itwo4lv8rzc/EstBasica_aula3_video2_2.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 3 | [link](https://www.dropbox.com/s/2dhen3pbzb4v224/Aula3.pdf?dl=0)   |
+| Assíncrona | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://drive.google.com/file/d/1FHYc6wYByDdtvL_evH1fZXO1oXdQC8EJ/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://drive.google.com/file/d/1FHYc6wYByDdtvL_evH1fZXO1oXdQC8EJ/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   |
 |  -          | **-** |    |
-| Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://www.dropbox.com/s/q8txvngwsuzbmxg/lista_estatisticabasica2e3.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://www.dropbox.com/s/m7hthdisrm76ls1/Aula2e3_sincrona_feita.pdf?dl=0)  |
+| Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1y46X6jUpqg5uk9FvsgmGz6ckulB8jcRx/view?usp=sharing)  |
 
 
 ## **Aula 4:** Medidas de posição e medidas separatrizes
@@ -280,13 +280,13 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades  |       Tipo de Atividade                                      | Links|
 | :---------: | ------------------------------------------------------------ | :---:|
-| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 1  |  [link](https://www.dropbox.com/s/2s43ahpnth1v714/EstBasica_aula4_video1_4.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 2 |  [link](https://www.dropbox.com/s/pkiabj03tvoku7a/EstBasica_aula4_video2_4.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 3 | [link](https://www.dropbox.com/s/f0o9z4n8sfze3vx/EstBasica_aula4_video3_4.mp4?dl=0)   |
-| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://www.dropbox.com/s/g7k8sij0w4vcfyp/EstBasica_aula4_video4_4.mp4?dl=0)   |
-| Assíncrona | Slides sobre a Aula 4 | [link](https://www.dropbox.com/s/qkam4a9ws77sry8/Aula4.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://www.dropbox.com/s/frl3y22jghvgds7/lista_estatisticabasica4.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://www.dropbox.com/s/a5p6sv6toiuc33i/Aula4_sincrona_feita.pdf?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 1  |  [link](https://drive.google.com/file/d/1t9uWQS8Q_4LeQSkur5cHbtS4FNWA68wT/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OdpTUFSqsFXGTMmDzV4X5BcOLOnUAOXr/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 3 | [link](https://drive.google.com/file/d/1hCUUAiTk3jHQBmF6oKD84ygo7zuhgHm3/view?usp=sharing)   |
+| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://drive.google.com/file/d/1QSkCiidgjOhFoZVA3wJ1jd5HCYZz7R09/view?usp=sharing)   |
+| Assíncrona | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1MN4C_O_pwFysI2eTOY-MAGLfkY0YG-K1/view?usp=sharing)   |
+| Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://drive.google.com/file/d/1qtW6AV6Q2OxQrXugMlDatLLNyohjBuNS/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://drive.google.com/file/d/1urRS2jVXwdIMdtN0yQgUn1HF4C9QrX_q/view?usp=sharing)  |
 
 ## **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose
 
@@ -299,18 +299,18 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Atividade  |       Tipo de Atividade                                       | Links|
 | :---------: | ------------------------------------------------------------ | :---:|
 |  -          | **Medidas de dispersão** |    |
-| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 1  |  [link](https://www.dropbox.com/s/leb7g2l0xf9tpan/EstBasica_aula5_video1_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 2 |  [link](https://www.dropbox.com/s/pmjn551momip9tr/EstBasica_aula5_video2_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 3 | [link](https://www.dropbox.com/s/eyafnkyspr2zs80/EstBasica_aula5_video3_3.mp4?dl=0)   |
-| Assíncrona | Slides sobre a Aula 5 | [link](https://www.dropbox.com/s/8bhksdkgn6ui12t/Aula5.pdf?dl=0)   |
+| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 1  |  [link](https://drive.google.com/file/d/15STlyBwBRHOa_gOe5xQqzYsdZ8S4Lndc/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OWEb_roUFVNoWOUoz42jiMHodKfV7YrB/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 3 | [link](https://drive.google.com/file/d/1mB2b1jMlSqW1F0V3L-aivoWW8O54e6IA/view?usp=sharing)   |
+| Assíncrona | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1rN0dOCIQOi23Yt1q8T-DfGWFxfRPn8IO/view?usp=sharing)   |
 |  -          | **Medidas de assimetria e curtose + boxplot** |    |
-| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 1  |  [link](https://www.dropbox.com/s/e7v3aif1pmngo3o/EstBasica_aula6_video1_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 2 |  [link](https://www.dropbox.com/s/erroe8fyjh3ptqm/EstBasica_aula6_video2_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://www.dropbox.com/s/j4n15p8kpr3ksrt/EstBasica_aula6_video3_3.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 6 | [link](https://www.dropbox.com/s/g85x72svx1zlnix/Aula6.pdf?dl=0)   |
+| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 1  |  [link](https://drive.google.com/file/d/1x0G3asedA0-piFvla_oXZz93ofQyHwN8/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 2 |  [link](https://drive.google.com/file/d/1iQvBFw_bwqF2u3GioWocgu8mie32V4BW/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://drive.google.com/file/d/1ySw28-WKRqBaLGmDw3KOBx7V-XNnfboK/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1BlijIVVbV3cTIQ1VpODvHugDbhx3cmf1/view?usp=sharing)   |
 |  -          | **-** |    |
-| Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://www.dropbox.com/s/13of66igike3tva/lista_estatisticabasica5e6.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://www.dropbox.com/s/piprsq2nfh5e63x/Aula5e6_sincrona_feita2.pdf?dl=0)  |
+| Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1QH5tyOiFG5oI8zyt445tXDrRQXOxbelr/view?usp=sharing)  |
 
 
 ## **Aula 7:** Análise Bidimensional (ou medidas de associação)
@@ -326,11 +326,11 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades  |       Tipo de Atividade                                      | Links |
 | :---------: | ------------------------------------------------------------ | :---: |
-| Assíncrona | Videoaula sobre a Aula 7 - Vídeo 1  |  [link](https://www.dropbox.com/s/zs8wf8jra67lnd7/EstBasica_aula7_video1_2.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://www.dropbox.com/s/y7dnuhtyp79wkgi/EstBasica_aula7_video2_2.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 7 | [link](https://www.dropbox.com/s/xuumwtpzaksc6fe/Aula7.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://www.dropbox.com/s/x677abxhdlx9ft3/lista_estatisticabasica7.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://www.dropbox.com/s/38wh7uypyng8ufg/Aula7_sincrona_feita.pdf?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 7 - Vídeo 1  |  [link](https://drive.google.com/file/d/199RNuven_68lYj1vup9v6EuB2IzXFnxl/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://drive.google.com/file/d/1VKCl8RDGw23hAamLM27LG1ir7xLm3QBE/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1rZmRpbnHb6r58G-WNeFqZoKlLC1lqaYe/view?usp=sharing)   |
+| Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://drive.google.com/file/d/1SFjLSm0ajaTAok2lVrJKZyvcVQ25hR0s/view?usp=sharing)  |
 
 ## **Aula 8:** Introdução à probabilidade
 
