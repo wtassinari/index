@@ -220,7 +220,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
 
-
+# Conteúdo das aulas
 
 ## **Apresentação da disciplina**
 
@@ -268,7 +268,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1y46X6jUpqg5uk9FvsgmGz6ckulB8jcRx/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/16tsUsgGitRBwb7EOIoeNLXCryyhuibbI/view?usp=sharing)  |
+| Síncrona | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  |
 
 
 ## **Aula 4:** Medidas de posição e medidas separatrizes
