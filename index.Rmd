@@ -207,18 +207,22 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | **29/09** |        Tabelas e Gráficos         | 2 e 3 |      | **17/11** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   |
 | **04/10** | `r colFmt("Tabelas e Gráficos*",'blue')`         | 2 e 3 |      | **22/11** | Distribuições de Probabilidade para VA discretas |  10   |
 | **06/10** |        Medidas de Posição         |   4   |      | **24/11** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')` |  10   |
-| **11/10** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   |
-| **13/10** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **01/12** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
-| **18/10** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **06/12** |       Introdução à Inferência Estatística        |  12   |
-| **20/10** |       Análise Bidimensional       |   7   |      | **08/12** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`                      |  12   |
-| **25/10** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **13/12** |     `r colFmt("P2**",'red')`        |       |
-| **27/10** | `r colFmt("Aula de Dúvidas*",'blue')`       |   7   |      | **15/12** |     `r colFmt("Segunda chamada**",'red')`        |       |
-| **01/11** |  `r colFmt("P1**",'red')`             |       |      | **20/12** |  `r colFmt("Optativa**",'red')`                       |       |
+| **11/10** | `r colFmt("Ponto Facultativo***",'green')`         |      |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   |
+| **13/10** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   |
+| **18/10** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **01/12** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
+| **20/10** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **06/12** |       Introdução à Inferência Estatística        |  12   |
+| **25/10** |       Análise Bidimensional       |   7   |      | **08/12** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`                      |  12   |
+| **27/10** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **13/12** |     `r colFmt("P2**",'red')`        |       |
+| **01/11** | `r colFmt("P1**",'red')`        |   7   |      | **15/12** |     `r colFmt("Segunda chamada**",'red')`        |       |
+|          |                  |       |      | **20/12** |  `r colFmt("Optativa**",'red')`                       |       |
 
 
 ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
 
 ###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
+
+###### `r colFmt("  ***Ponto facultativo.",'green')`
+
 
 # Conteúdo das aulas
 
