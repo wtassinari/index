@@ -349,13 +349,13 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades  |       Tipo de Atividade                                     | Links |
 | :---------: | ------------------------------------------------------------ | :---: |
-| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 1  |  [link](https://www.dropbox.com/s/k0wcab9wmssvzch/EstBasica_aula8_video1_4.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 2 |  [link](https://www.dropbox.com/s/2kfbryuonp06cyw/EstBasica_aula8_video2_4.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://www.dropbox.com/s/0emkqik85z3rqnx/EstBasica_aula8_video3_4.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://www.dropbox.com/s/qfzmsa3dldudl6s/EstBasica_aula8_video4_4.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 8 | [link](https://www.dropbox.com/s/2rxb1eutyb2tznw/Aula8.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://www.dropbox.com/s/euavjjf012d3e3c/lista_estatisticabasica8.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://www.dropbox.com/s/qfx9y19qoyn3879/Aula8_sincrona_feita2.pdf?dl=0) |
+| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 1  |  [link](https://drive.google.com/file/d/1yNJFlxcP2-CHhtPHzldGPjYM8lWqj4vG/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 2 |  [link](https://drive.google.com/file/d/15nEM6w0nxJlmxA-2hO0cK1u-CXALZdOQ/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://drive.google.com/file/d/1VVv5E3BY6VkZc1-9Psa7ORLypqku82B5/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://drive.google.com/file/d/1aAEgnEChR5ICrZjIouO5InS2ZGHTmP-2/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   |
+| Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/11xOziWbflgb03HnSS65FiE0fNRDpGMyN/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://drive.google.com/file/d/1Wyp1eFKqxOLW9rMB2qC6BZb4I8r6dXGw/view?usp=sharing) |
 
 ## **Aula 9:** Variáveis aleatórias
 
@@ -367,10 +367,10 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades  |       Tipo de Atividade                                      | Links |
 | :---------: | ------------------------------------------------------------ | :---: |
-| Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://www.dropbox.com/s/wwxegjyngqkwit5/EstBasica_aula9_video1_2.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://www.dropbox.com/s/iiwb4rq76nckv04/EstBasica_aula9_video2_2.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 9 | [link](https://www.dropbox.com/s/565lf480gyg8xjo/Aula9.pdf?dl=0)   |
-| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://www.dropbox.com/s/2l7t2hyusyx6n42/Aula9_sincrona_feita2.pdf?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   |
+| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://drive.google.com/file/d/1fA_r5xPWSu0EXojw6tJ3P7Y-SCL5nsZv/view?usp=sharing)  |
 
 `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
 
@@ -385,12 +385,12 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades  |       Tipo de Atividade                                      | Links |
 | :---------: | ------------------------------------------------------------ | :---: |
-| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 1  |  [link](https://www.dropbox.com/s/5zzckqtqzy5ozbt/EstBasica_aula10_video1_2.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://drive.google.com/file/d/1Jk2HpumrpQ-N69soV_qbTDc6H3GfNpGI/view?usp=sharing)  |
-| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://www.dropbox.com/s/ru54675hrgghj4k/EstBasica_aula10_video3_poisson.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 10 | [link](https://www.dropbox.com/s/dk7p6su9f47i5c5/Aula10.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/pvy3olr3q75zq8l/lista_estatisticabasica10.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://www.dropbox.com/s/9j837n943e7ojdo/Aula10_sincrona_feita.pdf?dl=0) |
+| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 1  |  [link](https://drive.google.com/file/d/164ZnngH-G8eDTBDpRO6UKOHx8Yn-xW-k/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://drive.google.com/file/d/1yweWP5UolLKuSHnJXDSGKfr_lUD-VrFe/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://drive.google.com/file/d/1-FegzRhdQgJj_4KF4un7d__uOr6WcCYh/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   |
+| Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://drive.google.com/file/d/1nWhXIt38ATM8grVav-dGh7x9I5gb7-An/view?usp=sharing) |
 
 ## **Aula 11:** Distribuições de probabilidade para VA contínuas
 
@@ -402,15 +402,15 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades  |       Tipo de Atividade                                      | Links |
 | :---------: | ------------------------------------------------------------ | :---: |
-| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 1  |  [link](https://www.dropbox.com/s/b84j02t4nxr1px8/EstBasica_aula11_video1_4.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 2 |  [link](https://www.dropbox.com/s/j6rdboxdl9khgxr/EstBasica_aula11_video2_4.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 3  |  [link](https://www.dropbox.com/s/v6w4vpl9eupd0bg/EstBasica_aula11_video3_4.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://www.dropbox.com/s/msrjy8pb76hnqob/EstBasica_aula11_video4_4.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 11 | [link](https://www.dropbox.com/s/n36wffnq5z2ndd6/Aula11.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 11 | [link](https://www.dropbox.com/s/gplwvlycconodlw/lista_estatisticabasica11.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 11 | [link](https://www.dropbox.com/s/chhqj10rsuilywm/Aula11_sincrona_feita2.pdf?dl=0) |
+| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 1  |  [link](https://drive.google.com/file/d/1A8fkhbDF8Hx6iWPAzY2S9cEFH8e2ibIJ/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 2 |  [link](https://drive.google.com/file/d/16hg4-vVst8ySrFJq9oDaMTKbhC756MDP/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 3  |  [link](https://drive.google.com/file/d/1K_eqFn5_0qFPrsaNdq8RHy9YrQ5yL18T/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://drive.google.com/file/d/1JZ4cHhU63P9KwTt0qOZQdUqNcQyk0o_9/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 11 | [link](https://drive.google.com/file/d/1t8HIqfSiWycyAtGZn-s_-JbyFNNpDIR5/view?usp=sharing)   |
+| Assíncrona | Lista de exercícios sobre a Aula 11 | [link](https://drive.google.com/file/d/1mU22lJZhQb149iM5t67SXopG2eUv8UNb/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 11 | [link](https://drive.google.com/file/d/1uLVosVe5_5aUAbif5xOeL2lwvXHu1OEo/view?usp=sharing) |
 
-**Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
+**Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
 
 ## **Aula 12:** Introdução à inferência estatística
 
@@ -422,13 +422,13 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades  |       Tipo de Atividade                                      | Links |
 | :---------: | ------------------------------------------------------------ | :---: |
-| Assíncrona | Videoaula sobre a Aula 12 - Vídeo 1  |  [link](https://www.dropbox.com/s/1nw1prdxx4wg4po/EstBasica_aula12_video1_2.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://www.dropbox.com/s/hfptdpkdavj0j1h/EstBasica_aula12_video2_2.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 12 | [link](https://www.dropbox.com/s/bz4j20jqfig04m3/Aula12.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://www.dropbox.com/s/ofqpzouhasdfbcp/lista_estatisticabasica12.pdf?dl=0) |
-| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://www.dropbox.com/s/en799ok3kttl837/Aula12_sincrona_feita2.pdf?dl=0) |
+| Assíncrona | Videoaula sobre a Aula 12 - Vídeo 1  |  [link](https://drive.google.com/file/d/1LCqugFPFXshgiH3o3x38y9vAukQbuwWz/view?usp=sharing)  |
+| Assíncrona | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://drive.google.com/file/d/1tnmvpRlA4emPvsGhsmIEITdKLj8e0iKf/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 12 | [link](https://drive.google.com/file/d/1waFMcrBp4LZeVATVkISRn0c_H8QJwWKZ/view?usp=sharing)   |
+| Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://drive.google.com/file/d/1abvCPMcirvNn-6QLHWbaTHmil_T0dAAW/view?usp=sharing) |
+| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://drive.google.com/file/d/12fbCJ09Ld4ybN7T4DG8OjodybS6rJj8H/view?usp=sharing) |
 
-**Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
+**Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
 
 # Orientações para a elaboração das provas
 
