@@ -110,7 +110,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- P1 – 01/11/2021 
+- P1 – 03/11/2021 
 
 \vspace{0.3mm}
 
@@ -201,7 +201,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
-| **20/09** |  `r colFmt("Apresentação da  Disciplina*",'blue')`  |   -   |      | **03/11** |  Introdução à Probabilidade  |   8   |
+| **20/09** |  `r colFmt("Apresentação da  Disciplina*",'blue')`  |   -   |      | **03/11** |  `r colFmt("P1**",'red')`   |      |
 | **22/09** |         Conceitos Básicos         |   1   |      | **08/11** |  `r colFmt("Introdução à Probabilidade*",'blue')`            |   8   |
 | **27/09** | `r colFmt("Conceitos Básicos*",'blue')`         |   1   |      | **10/11** |               Variáveis Aleatórias               |   9   |
 | **29/09** |        Tabelas e Gráficos         | 2 e 3 |      | **17/11** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   |
@@ -213,7 +213,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | **20/10** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **08/12** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`        |  12   |
 | **25/10** |       Análise Bidimensional       |   7   |      |  **13/12** |     `r colFmt("P2**",'red')`                      |    |
 | **27/10** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **15/12** |     `r colFmt("Segunda chamada**",'red')`         |       |
-| **01/11** | `r colFmt("P1**",'red')`        |   7   |      | **20/12** |  `r colFmt("Optativa**",'red')`         |       |
+| **01/11** | `r colFmt("Ponto Facultativo***",'green')`        |      |      | **20/12** |  `r colFmt("Optativa**",'red')`         |       |
 
 
 
