@@ -317,7 +317,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1BlijIVVbV3cTIQ1VpODvHugDbhx3cmf1/view?usp=sharing)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1QH5tyOiFG5oI8zyt445tXDrRQXOxbelr/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1-1YQuB82pRqmn1EzszTvEIW7KCdoG8xe/view?usp=sharing)  |
+| Síncrona | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  |
 
 
 ## **Aula 7:** Análise Bidimensional (ou medidas de associação)
