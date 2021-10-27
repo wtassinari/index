@@ -338,7 +338,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://drive.google.com/file/d/1VKCl8RDGw23hAamLM27LG1ir7xLm3QBE/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1rZmRpbnHb6r58G-WNeFqZoKlLC1lqaYe/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://drive.google.com/file/d/1SFjLSm0ajaTAok2lVrJKZyvcVQ25hR0s/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://drive.google.com/file/d/1xWgAg_Yp5nNBsmKH9Ajnx91jW4RaTVDL/view?usp=sharing)  |
+| Síncrona | Script do R a respeito das Aulas síncrona 7 |  [link](https://drive.google.com/file/d/14_YFgCF_IH3V1QNS3YEeJJBd-fqL7VZB/view?usp=sharing)  |
+
 
 ## **Aula 8:** Introdução à probabilidade
 
