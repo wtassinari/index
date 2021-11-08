@@ -358,7 +358,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://drive.google.com/file/d/1aAEgnEChR5ICrZjIouO5InS2ZGHTmP-2/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/11xOziWbflgb03HnSS65FiE0fNRDpGMyN/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://drive.google.com/file/d/1Wyp1eFKqxOLW9rMB2qC6BZb4I8r6dXGw/view?usp=sharing) |
+| Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://drive.google.com/file/d/1x8_3dHpcfvYRoDl_A97OLbWLBDvbRKA0/view?usp=sharing) |
 
 ## **Aula 9:** Variáveis aleatórias
 
