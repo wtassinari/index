@@ -373,7 +373,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  |
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   |
-| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://drive.google.com/file/d/1fA_r5xPWSu0EXojw6tJ3P7Y-SCL5nsZv/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://drive.google.com/file/d/1incQSO5YdjQcF1d8_jWkftAFotFNEsC-/view?usp=sharing)  |
 
 `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
 
