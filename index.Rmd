@@ -393,7 +393,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://drive.google.com/file/d/1-FegzRhdQgJj_4KF4un7d__uOr6WcCYh/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://drive.google.com/file/d/1nWhXIt38ATM8grVav-dGh7x9I5gb7-An/view?usp=sharing) |
+| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://drive.google.com/file/d/1_w9pC70NYY3nD5zp_uyKpMsEfI5ng-_K/view?usp=sharing) |
+| Síncrona | Script do R a respeito da Aula síncrona 10 |  [link](https://drive.google.com/file/d/1Ogphfd4NUp_swvzR4bD1b3MaLu7kTfec/view?usp=sharing)  |
+
 
 ## **Aula 11:** Distribuições de probabilidade para VA contínuas
 
