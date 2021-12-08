@@ -433,7 +433,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://drive.google.com/file/d/1tnmvpRlA4emPvsGhsmIEITdKLj8e0iKf/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 12 | [link](https://drive.google.com/file/d/1waFMcrBp4LZeVATVkISRn0c_H8QJwWKZ/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://drive.google.com/file/d/1abvCPMcirvNn-6QLHWbaTHmil_T0dAAW/view?usp=sharing) |
-| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://drive.google.com/file/d/12fbCJ09Ld4ybN7T4DG8OjodybS6rJj8H/view?usp=sharing) |
+| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://drive.google.com/file/d/14o36ltHT2csUvTgvXjMIiJh63dcoZ4XV/view?usp=sharing) |
+| Síncrona | Script do R a respeito da Aula síncrona 12 |  [link](https://drive.google.com/file/d/1KNu1ksBK-W8xGIJoimTXJFSha7aNvwFi/view?usp=sharing)  |
+
 
 **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
 
