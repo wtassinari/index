@@ -50,7 +50,7 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 knitr::include_graphics('rural.jpg')
 ```
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2021-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2021-2 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -110,19 +110,19 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- P1 – 03/11/2021 
+- **P1** – 15/03/2022 
 
 \vspace{0.3mm}
 
-- P2 – 13/12/2021
+- **P2** – 26/04/2022
 
 \vspace{0.3mm}
 
-- Segunda Chamada – 15/12/2021
+- **Segunda Chamada** – 28/04/2022
 
 \vspace{0.3mm}
 
-- Optativa – 20/12/2021
+- **Optativa** – 03/05/2022
 
 \vspace{0.3mm}
 
@@ -181,39 +181,39 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 # Cronograma do Curso
 
 
-<!-- |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas | -->
-<!-- | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: | -->
-<!-- | **01/06** |    Apresentação da  Disciplina*    |   -   |      | **20/07** |            Introdução à Probabilidade            |   8   | -->
-<!-- | **08/06** |         Conceitos Básicos         |   1   |      | **22/07** |            Introdução à Probabilidade*            |   8   | -->
-<!-- | **10/06** |         Conceitos Básicos*         |   1   |      | **27/07** |               Variáveis Aleatórias               |   9   | -->
-<!-- | **15/06** |        Tabelas e Gráficos         | 2 e 3 |      | **29/07** |               Variáveis Aleatórias*               |   9   | -->
-<!-- | **17/06** |        Tabelas e Gráficos*         | 2 e 3 |      | **03/08** | Distribuições de Probabilidade para VA discretas |  10   | -->
-<!-- | **22/06** |        Medidas de Posição         |   4   |      | **05/08** | Distribuições de Probabilidade para VA discretas* |  10   | -->
-<!-- | **24/06** |        Medidas de Posição*         |   4   |      | **10/08** | Distribuições de Probabilidade para VA contínuas |  11   | -->
-<!-- | **29/06** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/08** | Distribuições de Probabilidade para VA contínuas* |  11   | -->
-<!-- | **01/07** | Medidas de Dispersão e Assimetria* | 5 e 6 |      | **17/08** |       Introdução à Inferência Estatística        |  12   | -->
-<!-- | **06/07** |       Análise Bidimensional       |   7   |      | **19/08** |       Introdução à Inferência Estatística*        |  12   | -->
-<!-- | **08/07** |       Análise Bidimensional*       |   7   |      | **24/08** |                     Revisão*                     |       | -->
-<!-- | **13/07** |              Revisão*              |       |      | **26/08** |                        P2                        |       | -->
-<!-- | **15/07** |                P1                 |       |      | **04/05** |                 Segunda chamada                  |       | -->
-<!-- |     -     |                 -                 |       |      | **06/05** |                     Optativa                     |       | -->
-
-
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
-| **20/09** |  `r colFmt("Apresentação da  Disciplina*",'blue')`  |   -   |      | **03/11** |  `r colFmt("P1**",'red')`   |      |
-| **22/09** |         Conceitos Básicos         |   1   |      | **08/11** |  `r colFmt("Introdução à Probabilidade*",'blue')`            |   8   |
-| **27/09** | `r colFmt("Conceitos Básicos*",'blue')`         |   1   |      | **10/11** |               Variáveis Aleatórias               |   9   |
-| **29/09** |        Tabelas e Gráficos         | 2 e 3 |      | **17/11** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   |
-| **04/10** | `r colFmt("Tabelas e Gráficos*",'blue')`         | 2 e 3 |      | **22/11** | Distribuições de Probabilidade para VA discretas |  10   |
-| **06/10** |        Medidas de Posição         |   4   |      | **24/11** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')` |  10   |
-| **11/10** | `r colFmt("Ponto Facultativo***",'green')`         |      |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   |
-| **13/10** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **01/12** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
-| **18/10** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **06/12** |       Introdução à Inferência Estatística        |  12     |
-| **20/10** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **08/12** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`        |  12   |
-| **25/10** |       Análise Bidimensional       |   7   |      |  **13/12** |     `r colFmt("P2**",'red')`                      |    |
-| **27/10** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **15/12** |     `r colFmt("Segunda chamada**",'red')`         |       |
-| **01/11** | `r colFmt("Ponto Facultativo***",'green')`        |      |      | **20/12** |  `r colFmt("Optativa**",'red')`         |       |
+| **01/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   -   |      | **17/03** |            Introdução à Probabilidade            |   8   |
+| **03/02** |         Conceitos Básicos         |   1   |      | **22/03** |    `r colFmt("Introdução à Probabilidade*",'blue')`    |   8   |
+| **08/02** | `r colFmt("Conceitos Básicos*",'blue')`  |   1   |      | **24/03** |               Variáveis Aleatórias               |   9   |
+| **10/02** |        Tabelas e Gráficos         | 2 e 3 |      | **29/03** |   `r colFmt("Variáveis Aleatórias*",'blue')`  |   9   |
+| **15/02** | `r colFmt("Tabelas e Gráficos*",'blue')`  | 2 e 3 |      | **31/03** | Distribuições de Probabilidade para VA discretas |  10   |
+| **17/02** |        Medidas de Posição         |   4   |      | **05/04** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')`  |  10   |
+| **22/02** |  `r colFmt("Medidas de Posição*",'blue')`  |   4   |      | **07/04** | Distribuições de Probabilidade para VA contínuas |  11   |
+| **24/02** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/04** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
+| **01/03** | `r colFmt("Medidas de Dispersão e Assimetria*",'blue')`| 5 e 6 |      | **14/04** |       Introdução à Inferência Estatística        |  12   |
+| **03/03** |       Análise Bidimensional       |   7   |      | **19/04** |       `r colFmt("Introdução à Inferência Estatística*",'blue')`       |  12   |
+| **08/03** | `r colFmt("Análise Bidimensional*",'blue')`  |   7   |      | **26/04** |       `r colFmt("**Revisão** ***",'orange')`     |       |
+| **10/03** |        `r colFmt("**Revisão** ***",'orange')`          |       |      | **28/04** |     `r colFmt("**P2** **",'red')`                   |       |
+| **15/03** |  `r colFmt("**P1** **",'red')`        |       |      | **03/05** |      `r colFmt("**Segunda chamada** **",'red')`    |       |
+|     -     |                 -                 |       |      | **05/05** |      `r colFmt("**Optativa** **",'red')`             |       |
+
+
+<!-- |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas | -->
+<!-- | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: | -->
+<!-- | **20/09** |  `r colFmt("Apresentação da  Disciplina*",'blue')`  |   -   |      | **03/11** |  `r colFmt("P1**",'red')`   |      | -->
+<!-- | **22/09** |         Conceitos Básicos         |   1   |      | **08/11** |  `r colFmt("Introdução à Probabilidade*",'blue')`            |   8   | -->
+<!-- | **27/09** | `r colFmt("Conceitos Básicos*",'blue')`         |   1   |      | **10/11** |               Variáveis Aleatórias               |   9   | -->
+<!-- | **29/09** |        Tabelas e Gráficos         | 2 e 3 |      | **17/11** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   | -->
+<!-- | **04/10** | `r colFmt("Tabelas e Gráficos*",'blue')`         | 2 e 3 |      | **22/11** | Distribuições de Probabilidade para VA discretas |  10   | -->
+<!-- | **06/10** |        Medidas de Posição         |   4   |      | **24/11** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')` |  10   | -->
+<!-- | **11/10** | `r colFmt("Ponto Facultativo***",'green')`         |      |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   | -->
+<!-- | **13/10** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **01/12** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   | -->
+<!-- | **18/10** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **06/12** |       Introdução à Inferência Estatística        |  12     | -->
+<!-- | **20/10** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **08/12** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`        |  12   | -->
+<!-- | **25/10** |       Análise Bidimensional       |   7   |      |  **13/12** |     `r colFmt("P2**",'red')`                      |    | -->
+<!-- | **27/10** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **15/12** |     `r colFmt("Segunda chamada**",'red')`         |       | -->
+<!-- | **01/11** | `r colFmt("Ponto Facultativo***",'green')`        |      |      | **20/12** |  `r colFmt("Optativa**",'red')`         |       | -->
 
 
 
@@ -221,7 +221,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
 
-###### `r colFmt("  ***Ponto facultativo.",'green')`
+###### `r colFmt("  ***Aulas de revisão (aulas facultativas).",'orange')`
+
+<!-- ###### `r colFmt("  ****Ponto facultativo.",'green')` -->
 
 
 # Conteúdo das aulas
@@ -246,7 +248,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://drive.google.com/file/d/1uI6AxGQ2-FKWjvJiNO2J4p9bHaM158hU/view?usp=drivesdk)   |
 | Assíncrona | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/1MEKmWA_G1wXg8FG5bgfC92AhIOs4YWIo/view?usp=drivesdk)   |
 | Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1JY_3_bRzxALrZ5FLSzF0YM0iS72ZKdNJ/view?usp=drivesdk)  |
-| Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://drive.google.com/file/d/1VC8ndaQ_0dQNy8kHCY9JNIrhhmLpEu59/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 1 |  [Em breve !!!]()  |
 | Síncrona | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  |
 
 
@@ -272,7 +274,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/16tsUsgGitRBwb7EOIoeNLXCryyhuibbI/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [Em breve !!!]()  |
 | Síncrona | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  |
 
 
@@ -292,7 +294,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://drive.google.com/file/d/1QSkCiidgjOhFoZVA3wJ1jd5HCYZz7R09/view?usp=sharing)   |
 | Assíncrona | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1MN4C_O_pwFysI2eTOY-MAGLfkY0YG-K1/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://drive.google.com/file/d/1qtW6AV6Q2OxQrXugMlDatLLNyohjBuNS/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://drive.google.com/file/d/1L0I3jwGl3co0I8kjxLbqG_bAuZlAbIKu/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 4 | [Em breve !!!]()  |
 | Síncrona | Script do R a respeito da Aula síncrona 4 |  [link](https://drive.google.com/file/d/1REhk4TowwN1E3R8K6pA-sa_kIk8hCj8r/view?usp=sharing)  |
 
 ## **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose
@@ -317,7 +319,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1BlijIVVbV3cTIQ1VpODvHugDbhx3cmf1/view?usp=sharing)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1-1YQuB82pRqmn1EzszTvEIW7KCdoG8xe/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [Em breve !!!]()  |
 | Síncrona | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  |
 
 
@@ -338,7 +340,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://drive.google.com/file/d/1VKCl8RDGw23hAamLM27LG1ir7xLm3QBE/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1rZmRpbnHb6r58G-WNeFqZoKlLC1lqaYe/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://drive.google.com/file/d/1xWgAg_Yp5nNBsmKH9Ajnx91jW4RaTVDL/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 7 | [Em breve !!!]()  |
 | Síncrona | Script do R a respeito das Aulas síncrona 7 |  [link](https://drive.google.com/file/d/14_YFgCF_IH3V1QNS3YEeJJBd-fqL7VZB/view?usp=sharing)  |
 
 
@@ -357,7 +359,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://drive.google.com/file/d/1VVv5E3BY6VkZc1-9Psa7ORLypqku82B5/view?usp=sharing)  |
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://drive.google.com/file/d/1aAEgnEChR5ICrZjIouO5InS2ZGHTmP-2/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   |
-| Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/11xOziWbflgb03HnSS65FiE0fNRDpGMyN/view?usp=sharing)  |
+| Assíncrona | Lista de exercícios sobre a Aula 8 | [Em breve !!!]()  |
 | Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://drive.google.com/file/d/1x8_3dHpcfvYRoDl_A97OLbWLBDvbRKA0/view?usp=sharing) |
 
 ## **Aula 9:** Variáveis aleatórias
@@ -373,7 +375,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  |
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   |
-| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://drive.google.com/file/d/1incQSO5YdjQcF1d8_jWkftAFotFNEsC-/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 9 | [Em breve !!!]()  |
 
 `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
 
@@ -393,7 +395,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://drive.google.com/file/d/1-FegzRhdQgJj_4KF4un7d__uOr6WcCYh/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://drive.google.com/file/d/1_w9pC70NYY3nD5zp_uyKpMsEfI5ng-_K/view?usp=sharing) |
+| Síncrona | Atividades síncronas a respeito da Aula 10 | [Em breve !!!]() |
 | Síncrona | Script do R a respeito da Aula síncrona 10 |  [link](https://drive.google.com/file/d/1Ogphfd4NUp_swvzR4bD1b3MaLu7kTfec/view?usp=sharing)  |
 
 
@@ -413,7 +415,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://drive.google.com/file/d/1JZ4cHhU63P9KwTt0qOZQdUqNcQyk0o_9/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 11 | [link](https://drive.google.com/file/d/1t8HIqfSiWycyAtGZn-s_-JbyFNNpDIR5/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 11 | [link](https://drive.google.com/file/d/1mU22lJZhQb149iM5t67SXopG2eUv8UNb/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 11 | [link](https://drive.google.com/file/d/1YpH0azmQ5z2-RWVpu7m6BiLcxmyU256C/view?usp=sharing) |
+| Síncrona | Atividades síncronas a respeito da Aula 11 | [Em breve !!!]() |
 | Síncrona | Script do R a respeito da Aula síncrona 11 |  [link](https://drive.google.com/file/d/1AghAPAEj_EZA_AZTFudorvXE_z97dGx9/view?usp=sharing)  |
 
 
@@ -433,7 +435,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://drive.google.com/file/d/1tnmvpRlA4emPvsGhsmIEITdKLj8e0iKf/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 12 | [link](https://drive.google.com/file/d/1waFMcrBp4LZeVATVkISRn0c_H8QJwWKZ/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://drive.google.com/file/d/1abvCPMcirvNn-6QLHWbaTHmil_T0dAAW/view?usp=sharing) |
-| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://drive.google.com/file/d/14o36ltHT2csUvTgvXjMIiJh63dcoZ4XV/view?usp=sharing) |
+| Síncrona | Atividades síncronas a respeito da Aula 12 | [Em breve !!!]() |
 | Síncrona | Script do R a respeito da Aula síncrona 12 |  [link](https://drive.google.com/file/d/1KNu1ksBK-W8xGIJoimTXJFSha7aNvwFi/view?usp=sharing)  |
 
 
