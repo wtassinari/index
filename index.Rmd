@@ -248,7 +248,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://drive.google.com/file/d/1uI6AxGQ2-FKWjvJiNO2J4p9bHaM158hU/view?usp=drivesdk)   |
 | Assíncrona | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/1MEKmWA_G1wXg8FG5bgfC92AhIOs4YWIo/view?usp=drivesdk)   |
 | Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1JY_3_bRzxALrZ5FLSzF0YM0iS72ZKdNJ/view?usp=drivesdk)  |
-| Síncrona | Atividades síncronas a respeito da Aula 1 |  [Em breve !!!]()  |
+| Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://drive.google.com/file/d/1QWlGI75QbS94T6FO4PjRpanMtW8QJ1pm/view?usp=sharing)  |
 | Síncrona | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  |
 
 
