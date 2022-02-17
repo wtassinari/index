@@ -274,7 +274,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/128lgv9pNUDo6PomU7Z75LJ2tKLwtiKzR/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1_wIxJAMTAeOWVSu_1i9IR6inm1IQwAGH/view?usp=sharing)  |
 | Síncrona | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  |
 
 
