@@ -294,7 +294,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://drive.google.com/file/d/1QSkCiidgjOhFoZVA3wJ1jd5HCYZz7R09/view?usp=sharing)   |
 | Assíncrona | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1MN4C_O_pwFysI2eTOY-MAGLfkY0YG-K1/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://drive.google.com/file/d/1qtW6AV6Q2OxQrXugMlDatLLNyohjBuNS/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 4 | [Em breve !!!]()  |
+| Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://drive.google.com/file/d/14dmYIB9oBiTbl6a2iV_6mWlsXBVeYf0f/view?usp=sharing)  |
 | Síncrona | Script do R a respeito da Aula síncrona 4 |  [link](https://drive.google.com/file/d/1REhk4TowwN1E3R8K6pA-sa_kIk8hCj8r/view?usp=sharing)  |
 
 ## **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose
