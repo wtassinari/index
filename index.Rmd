@@ -191,10 +191,10 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | **17/02** |        Medidas de Posição         |   4   |      | **05/04** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')`  |  10   |
 | **22/02** |  `r colFmt("Medidas de Posição*",'blue')`  |   4   |      | **07/04** | Distribuições de Probabilidade para VA contínuas |  11   |
 | **24/02** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/04** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
-| **01/03** | `r colFmt("Carnaval*",'green')`| - |      | **14/04** |       Introdução à Inferência Estatística        |  12   |
+| **01/03** | `r colFmt("Carnaval",'gray')`| - |      | **14/04** |       Introdução à Inferência Estatística        |  12   |
 | **03/03** | Análise Bidimensional  | 7  |      | **19/04** |       `r colFmt("Introdução à Inferência Estatística*",'blue')`       |  12   |
-| **08/03** | `r colFmt("Medidas de Dispersão e Assimetria e Revisão*",'blue')`  |   5 e 6   |      | **26/04** |       `r colFmt("**Revisão** ***",'orange')`     |       |
-| **10/03** | `r colFmt("Análise Bidimensional e Revisão*",'blue')`          |    7   |      | **28/04** |     `r colFmt("**P2** **",'red')`                   |       |
+| **08/03** | `r colFmt("Medidas de Dispersão e Assimetria e Revisão*",'green')`  |   5 e 6   |      | **26/04** |       `r colFmt("**Revisão** ***",'orange')`     |       |
+| **10/03** | `r colFmt("Análise Bidimensional e Revisão*",'green')`          |    7   |      | **28/04** |     `r colFmt("**P2** **",'red')`                   |       |
 | **15/03** |  `r colFmt("**P1** **",'red')`        |       |      | **03/05** |      `r colFmt("**Segunda chamada** **",'red')`    |       |
 |     -     |                 -                 |       |      | **05/05** |      `r colFmt("**Optativa** **",'red')`             |       |
 
@@ -207,7 +207,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 <!-- | **29/09** |        Tabelas e Gráficos         | 2 e 3 |      | **17/11** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   | -->
 <!-- | **04/10** | `r colFmt("Tabelas e Gráficos*",'blue')`         | 2 e 3 |      | **22/11** | Distribuições de Probabilidade para VA discretas |  10   | -->
 <!-- | **06/10** |        Medidas de Posição         |   4   |      | **24/11** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')` |  10   | -->
-<!-- | **11/10** | `r colFmt("Ponto Facultativo***",'green')`         |      |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   | -->
+<!-- | **11/10** | `r colFmt("Ponto Facultativo***",'gray')`         |      |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   | -->
 <!-- | **13/10** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **01/12** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   | -->
 <!-- | **18/10** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **06/12** |       Introdução à Inferência Estatística        |  12     | -->
 <!-- | **20/10** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **08/12** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`        |  12   | -->
@@ -218,6 +218,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 
 ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
+
+###### `r colFmt("  *As aulas presenciais estão escritas na cor verde marcadas com um asterístico.",'green')`
 
 ###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
 
