@@ -184,15 +184,15 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
 | **01/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   -   |      | **17/03** |            Introdução à Probabilidade            |   8   |
-| **03/02** |         Conceitos Básicos         |   1   |      | **22/03** |    `r colFmt("Introdução à Probabilidade*",'blue')`    |   8   |
+| **03/02** |         Conceitos Básicos         |   1   |      | **22/03** |    `r colFmt("Introdução à Probabilidade*",'green')`    |   8   |
 | **08/02** | `r colFmt("Conceitos Básicos*",'blue')`  |   1   |      | **24/03** |               Variáveis Aleatórias               |   9   |
-| **10/02** |        Tabelas e Gráficos         | 2 e 3 |      | **29/03** |   `r colFmt("Variáveis Aleatórias*",'blue')`  |   9   |
+| **10/02** |        Tabelas e Gráficos         | 2 e 3 |      | **29/03** |   `r colFmt("Variáveis Aleatórias*",'green')`  |   9   |
 | **15/02** | `r colFmt("Tabelas e Gráficos*",'blue')`  | 2 e 3 |      | **31/03** | Distribuições de Probabilidade para VA discretas |  10   |
-| **17/02** |        Medidas de Posição         |   4   |      | **05/04** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')`  |  10   |
+| **17/02** |        Medidas de Posição         |   4   |      | **05/04** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'green')`  |  10   |
 | **22/02** |  `r colFmt("Medidas de Posição*",'blue')`  |   4   |      | **07/04** | Distribuições de Probabilidade para VA contínuas |  11   |
-| **24/02** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/04** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
+| **24/02** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/04** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'green')` |  11   |
 | **01/03** | `r colFmt("Carnaval",'gray')`| - |      | **14/04** |       Introdução à Inferência Estatística        |  12   |
-| **03/03** | Análise Bidimensional  | 7  |      | **19/04** |       `r colFmt("Introdução à Inferência Estatística*",'blue')`       |  12   |
+| **03/03** | Análise Bidimensional  | 7  |      | **19/04** |       `r colFmt("Introdução à Inferência Estatística*",'green')`       |  12   |
 | **08/03** | `r colFmt("Medidas de Dispersão e Assimetria e Revisão*",'green')`  |   5 e 6   |      | **26/04** |       `r colFmt("**Revisão** ***",'orange')`     |       |
 | **10/03** | `r colFmt("Análise Bidimensional e Revisão*",'green')`          |    7   |      | **28/04** |     `r colFmt("**P2** **",'red')`                   |       |
 | **15/03** |  `r colFmt("**P1** **",'red')`        |       |      | **03/05** |      `r colFmt("**Segunda chamada** **",'red')`    |       |
@@ -223,7 +223,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
 
-###### `r colFmt("  ***Aulas de revisão (aulas facultativas).",'orange')`
+###### `r colFmt("  ***Aula de revisão (prensencial e facultativa).",'orange')`
 
 <!-- ###### `r colFmt("  ****Ponto facultativo.",'green')` -->
 
@@ -321,7 +321,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1BlijIVVbV3cTIQ1VpODvHugDbhx3cmf1/view?usp=sharing)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link ](https://drive.google.com/file/d/1QH5tyOiFG5oI8zyt445tXDrRQXOxbelr/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [Em breve !!!]()  |
 | Síncrona | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  |
 
 
@@ -342,7 +342,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://drive.google.com/file/d/1VKCl8RDGw23hAamLM27LG1ir7xLm3QBE/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1rZmRpbnHb6r58G-WNeFqZoKlLC1lqaYe/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://drive.google.com/file/d/1SFjLSm0ajaTAok2lVrJKZyvcVQ25hR0s/view?usp=sharing)  |
+| Síncrona | Atividades síncronas a respeito da Aula 7 | [Em breve !!!]()  |
 | Síncrona | Script do R a respeito das Aulas síncrona 7 |  [link](https://drive.google.com/file/d/14_YFgCF_IH3V1QNS3YEeJJBd-fqL7VZB/view?usp=sharing)  |
 
 
@@ -361,7 +361,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://drive.google.com/file/d/1VVv5E3BY6VkZc1-9Psa7ORLypqku82B5/view?usp=sharing)  |
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://drive.google.com/file/d/1aAEgnEChR5ICrZjIouO5InS2ZGHTmP-2/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   |
-| Assíncrona | Lista de exercícios sobre a Aula 8 | [Em breve !!!]()  |
+| Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/1pPGcFA2cRRrgoe6aCr4ENyjmCXz7ilqK/view?usp=sharing)  |
 | Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://drive.google.com/file/d/1x8_3dHpcfvYRoDl_A97OLbWLBDvbRKA0/view?usp=sharing) |
 
 ## **Aula 9:** Variáveis aleatórias
@@ -377,7 +377,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  |
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   |
-| Síncrona | Atividades síncronas a respeito da Aula 9 | [Em breve !!!]()  |
+| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://drive.google.com/file/d/1xB_p84rJ5FUbwwQnzBnlI8H5_YVnY080/view?usp=sharing)  |
 
 `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
 
@@ -397,7 +397,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://drive.google.com/file/d/1-FegzRhdQgJj_4KF4un7d__uOr6WcCYh/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 10 | [Em breve !!!]() |
+| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://drive.google.com/file/d/1rLC1pkLXOgoqsQgar_WA6Wpmdfr7FKj1/view?usp=sharing) |
 | Síncrona | Script do R a respeito da Aula síncrona 10 |  [link](https://drive.google.com/file/d/1Ogphfd4NUp_swvzR4bD1b3MaLu7kTfec/view?usp=sharing)  |
 
 
@@ -417,7 +417,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://drive.google.com/file/d/1JZ4cHhU63P9KwTt0qOZQdUqNcQyk0o_9/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 11 | [link](https://drive.google.com/file/d/1t8HIqfSiWycyAtGZn-s_-JbyFNNpDIR5/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 11 | [link](https://drive.google.com/file/d/1mU22lJZhQb149iM5t67SXopG2eUv8UNb/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 11 | [Em breve !!!]() |
+| Síncrona | Atividades síncronas a respeito da Aula 11 | [link](https://drive.google.com/file/d/1dn1j8l8MLCKO84do0apBmtKd7wPQjfpA/view?usp=sharing) |
 | Síncrona | Script do R a respeito da Aula síncrona 11 |  [link](https://drive.google.com/file/d/1AghAPAEj_EZA_AZTFudorvXE_z97dGx9/view?usp=sharing)  |
 
 
@@ -437,17 +437,17 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://drive.google.com/file/d/1tnmvpRlA4emPvsGhsmIEITdKLj8e0iKf/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 12 | [link](https://drive.google.com/file/d/1waFMcrBp4LZeVATVkISRn0c_H8QJwWKZ/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://drive.google.com/file/d/1abvCPMcirvNn-6QLHWbaTHmil_T0dAAW/view?usp=sharing) |
-| Síncrona | Atividades síncronas a respeito da Aula 12 | [Em breve !!!]() |
+| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://drive.google.com/file/d/1FKhkaZG7HNx8qGwp9eN7TW8NytI49Ers/view?usp=sharing) |
 | Síncrona | Script do R a respeito da Aula síncrona 12 |  [link](https://drive.google.com/file/d/1KNu1ksBK-W8xGIJoimTXJFSha7aNvwFi/view?usp=sharing)  |
 
 
 **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
 
-<!-- # Orientações para a elaboração das provas -->
+# Orientações para a elaboração das provas
 
-<!-- - As provas deverão ser feitas segundo as seguintes orientações: [link](https://drive.google.com/file/d/1cMt2KMc1isKqL3eShs9S1ENNfp8c8ybj/view?usp=sharing) -->
+- As provas deverão ser feitas segundo as seguintes orientações: [link](https://drive.google.com/file/d/1cMt2KMc1isKqL3eShs9S1ENNfp8c8ybj/view?usp=sharing)
 
-<!-- - Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com a resolução das questões da prova: [link](https://drive.google.com/file/d/1-wQQrEqieHMm-y6uXNsv7oSoa1BMS66s/view?usp=sharing) -->
+- Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com a resolução das questões da prova: [link](https://drive.google.com/file/d/1-wQQrEqieHMm-y6uXNsv7oSoa1BMS66s/view?usp=sharing)
 
 <!-- ## ATENÇÃO !!!!!!!!!! -->
 
