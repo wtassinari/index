@@ -321,7 +321,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1BlijIVVbV3cTIQ1VpODvHugDbhx3cmf1/view?usp=sharing)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [Em breve !!!]()  |
+| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vSdndRJUijExhUgmb7gusZXdAerqPgXa/view?usp=sharing)  |
 | Síncrona | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  |
 
 
@@ -342,7 +342,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://drive.google.com/file/d/1VKCl8RDGw23hAamLM27LG1ir7xLm3QBE/view?usp=sharing)  |
 | Assíncrona | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1rZmRpbnHb6r58G-WNeFqZoKlLC1lqaYe/view?usp=sharing)   |
 | Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  |
-| Síncrona | Atividades síncronas a respeito da Aula 7 | [Em breve !!!]()  |
+| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://drive.google.com/file/d/10jC-OWRdfKLS1HDMGf-w7tgIttdDI4gh/view?usp=sharing)  |
 | Síncrona | Script do R a respeito das Aulas síncrona 7 |  [link](https://drive.google.com/file/d/14_YFgCF_IH3V1QNS3YEeJJBd-fqL7VZB/view?usp=sharing)  |
 
 
