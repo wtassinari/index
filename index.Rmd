@@ -114,15 +114,15 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 \vspace{0.3mm}
 
-- **P2** – 26/04/2022
+- **P2** – 28/04/2022
 
 \vspace{0.3mm}
 
-- **Segunda Chamada** – 28/04/2022
+- **Segunda Chamada** – 03/05/2022
 
 \vspace{0.3mm}
 
-- **Optativa** – 03/05/2022
+- **Optativa** – 05/05/2022
 
 \vspace{0.3mm}
 
@@ -193,7 +193,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | **24/02** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/04** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'green')` |  11   |
 | **01/03** | `r colFmt("Carnaval",'gray')`| - |      | **14/04** |       Introdução à Inferência Estatística        |  12   |
 | **03/03** | Análise Bidimensional  | 7  |      | **19/04** |       `r colFmt("Introdução à Inferência Estatística*",'green')`       |  12   |
-| **08/03** | `r colFmt("Medidas de Dispersão e Assimetria e Revisão*",'green')`  |   5 e 6   |      | **26/04** |       `r colFmt("**Revisão** ***",'orange')`     |       |
+| **08/03** | `r colFmt("Medidas de Dispersão e Assimetria e Revisão*",'green')`  |   5 e 6   |      | **26/04** |       `r colFmt("**Aula de Dúvidas** ***",'orange')`     |       |
 | **10/03** | `r colFmt("Análise Bidimensional e Revisão*",'green')`          |    7   |      | **28/04** |     `r colFmt("**P2** **",'red')`                   |       |
 | **15/03** |  `r colFmt("**P1** **",'red')`        |       |      | **03/05** |      `r colFmt("**Segunda chamada** **",'red')`    |       |
 |     -     |                 -                 |       |      | **05/05** |      `r colFmt("**Optativa** **",'red')`             |       |
