@@ -112,35 +112,35 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 18/07/2022 
+- **P1** – 21/07/2022 
+
+<!-- \vspace{0.3mm} -->
+
+<!-- - **Segunda chamada referente a P1** – 27/07/2022  -->
 
 \vspace{0.3mm}
 
-- **Segunda chamada referente a P1** – 27/07/2022 
+- **P2** – 06/09/2022
 
 \vspace{0.3mm}
 
-- **P2** – 05/09/2022
+- **Segunda Chamada** – 13/09/2022
 
 \vspace{0.3mm}
 
-- **Segunda Chamada referente a P2** – 12/09/2022
-
-\vspace{0.3mm}
-
-- **Optativa** – 19/09/2022
+- **Optativa** – 20/09/2022
 
 \vspace{0.3mm}
 
 - A média final será composta pela nota da primeira e da segunda avaliação.
 
-<!-- \vspace{0.3mm} -->
+\vspace{0.3mm}
 
-<!-- - OBS1: Será aplicada apenas uma prova de segunda chamada. -->
+**OBS1:** Será aplicada apenas uma prova de segunda chamada (P1 ou P2).
 
 \vspace{0.3mm}
 
-**OBS:** É facultativa ao aluno uma prova opcional (optativa), a ser realizada no encerramento do período, envolvendo toda a matéria lecionada. A nota obtida em prova opcional substituirá o de menor valor correspondente às verificações regulares durante o período, inclusive se o grau da prova optativa for
+**OBS2:** É facultativa ao aluno uma prova opcional (optativa), a ser realizada no encerramento do período, envolvendo toda a matéria lecionada. A nota obtida em prova opcional substituirá o de menor valor correspondente às verificações regulares durante o período, inclusive se o grau da prova optativa for
 inferior ao menor conceito obtido anteriormente, mas esta substituição deve resultar em média final igual ou superior a $5,0$ (cinco). [(Ver manual do estudante da UFRRJ)](https://portal.ufrrj.br/wp-content/uploads/2015/09/Manual-FINAL.pdf)
 
 
