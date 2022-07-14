@@ -112,7 +112,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 21/07/2022 
+- **P1** – 28/07/2022 
 
 <!-- \vspace{0.3mm} -->
 
@@ -347,7 +347,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ------------------------------------------------------------ | :---: |
 | Videoaula | Videoaula sobre a Aula 7 - Vídeo 1  |  [link](https://drive.google.com/file/d/199RNuven_68lYj1vup9v6EuB2IzXFnxl/view?usp=sharing)  |
 | Videoaula | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://drive.google.com/file/d/1VKCl8RDGw23hAamLM27LG1ir7xLm3QBE/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1rZmRpbnHb6r58G-WNeFqZoKlLC1lqaYe/view?usp=sharing)   |
+| Slides | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1TIoHctWDjDlCmmjEsl8fx9BLWXhPqlWo/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  |
 | Exercícios | Atividades síncronas a respeito da Aula 7 | [link](https://drive.google.com/file/d/10jC-OWRdfKLS1HDMGf-w7tgIttdDI4gh/view?usp=sharing)  |
 | Script | Script do R a respeito das Aulas síncrona 7 |  [link](https://drive.google.com/file/d/14_YFgCF_IH3V1QNS3YEeJJBd-fqL7VZB/view?usp=sharing)  |
