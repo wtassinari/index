@@ -369,7 +369,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://drive.google.com/file/d/1aAEgnEChR5ICrZjIouO5InS2ZGHTmP-2/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/1pPGcFA2cRRrgoe6aCr4ENyjmCXz7ilqK/view?usp=sharing)  |
-| Exercícios | Atividades síncronas a respeito da Aula 8 | [link](https://drive.google.com/file/d/1x8_3dHpcfvYRoDl_A97OLbWLBDvbRKA0/view?usp=sharing) |
+| Exercícios | Exercícios de fixação a respeito da Aula 8 | [link](https://drive.google.com/file/d/1x8_3dHpcfvYRoDl_A97OLbWLBDvbRKA0/view?usp=sharing) |
 
 ## **Aula 9:** Variáveis aleatórias
 
@@ -384,7 +384,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  |
 | Videoaula | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   |
-| Exercícios | Atividades síncronas a respeito da Aula 9 | [link](https://drive.google.com/file/d/1xB_p84rJ5FUbwwQnzBnlI8H5_YVnY080/view?usp=sharing)  |
+| Exercícios | Exercícios de fixação a respeito da Aula 9 | [link](https://drive.google.com/file/d/1xB_p84rJ5FUbwwQnzBnlI8H5_YVnY080/view?usp=sharing)  |
 
 `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
 
@@ -404,7 +404,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://drive.google.com/file/d/1-FegzRhdQgJj_4KF4un7d__uOr6WcCYh/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  |
-| Exercícios | Atividades síncronas a respeito da Aula 10 | [link](https://drive.google.com/file/d/1rLC1pkLXOgoqsQgar_WA6Wpmdfr7FKj1/view?usp=sharing) |
+| Exercícios | Exercícios de fixação a respeito da Aula 10 | [link](https://drive.google.com/file/d/1rLC1pkLXOgoqsQgar_WA6Wpmdfr7FKj1/view?usp=sharing) |
 | Script | Script do R a respeito da Aula síncrona 10 |  [link](https://drive.google.com/file/d/1Ogphfd4NUp_swvzR4bD1b3MaLu7kTfec/view?usp=sharing)  |
 
 
@@ -424,7 +424,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://drive.google.com/file/d/1JZ4cHhU63P9KwTt0qOZQdUqNcQyk0o_9/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 11 | [link](https://drive.google.com/file/d/1t8HIqfSiWycyAtGZn-s_-JbyFNNpDIR5/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 11 | [link](https://drive.google.com/file/d/1mU22lJZhQb149iM5t67SXopG2eUv8UNb/view?usp=sharing)  |
-| Exercícios | Atividades síncronas a respeito da Aula 11 | [link](https://drive.google.com/file/d/1dn1j8l8MLCKO84do0apBmtKd7wPQjfpA/view?usp=sharing) |
+| Exercícios | Exercícios de fixação a respeito da Aula 11 | [link](https://drive.google.com/file/d/1dn1j8l8MLCKO84do0apBmtKd7wPQjfpA/view?usp=sharing) |
 | Script | Script do R a respeito da Aula síncrona 11 |  [link](https://drive.google.com/file/d/1AghAPAEj_EZA_AZTFudorvXE_z97dGx9/view?usp=sharing)  |
 
 
@@ -444,7 +444,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://drive.google.com/file/d/1tnmvpRlA4emPvsGhsmIEITdKLj8e0iKf/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 12 | [link](https://drive.google.com/file/d/1waFMcrBp4LZeVATVkISRn0c_H8QJwWKZ/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 12 | [link](https://drive.google.com/file/d/1abvCPMcirvNn-6QLHWbaTHmil_T0dAAW/view?usp=sharing) |
-| Exercícios | Atividades síncronas a respeito da Aula 12 | [link](https://drive.google.com/file/d/1FKhkaZG7HNx8qGwp9eN7TW8NytI49Ers/view?usp=sharing) |
+| Exercícios | Exercícios de fixação a respeito da Aula 12 | [link](https://drive.google.com/file/d/1FKhkaZG7HNx8qGwp9eN7TW8NytI49Ers/view?usp=sharing) |
 | Script | Script do R a respeito da Aula síncrona 12 |  [link](https://drive.google.com/file/d/1KNu1ksBK-W8xGIJoimTXJFSha7aNvwFi/view?usp=sharing)  |
 
 
