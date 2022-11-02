@@ -1,27 +1,67 @@
 ---
-title: "Disciplinas de Estatística Básica e Introdução à Bioestatística"
-date: ""
+title: "Pós-graduação em Ciências Veterinárias (IV/UFRRJ)"
+subtitle: "Modelos de Regressão Aplicados às Ciências Veterinárias"
+author: |
+  | Adriana Andrade
+  |
+  | Wagner Tassinari 
+  |
+date: "2021"
 output:
   rmdformats::readthedown:
-    highlight: kate
+   highlight: kate
+
+# css: custom.css
+# output: rmdformats::material
+  
 ---
 
 
 ```{r setup, include=FALSE}
 library(knitr)
-library(rmdformats)
 
 ## Global options
 options(max.print="75")
-opts_chunk$set(echo=FALSE,
+knitr::opts_chunk$set(echo=FALSE,
                cache=TRUE,
                prompt=FALSE,
                tidy=TRUE,
                comment=NA,
                message=FALSE,
-               warning=FALSE)
-opts_knit$set(width=75)
+               warning=FALSE,
+               cache.lazy=FALSE)
+knitr::opts_knit$set(width=75)
+
 ```
+
+
+<!-- ```{r klippy} -->
+<!-- # Insert copy to clipboard buttons in HTML documents -->
+<!-- # remotes::install_github("rlesur/klippy") -->
+<!-- klippy::klippy( -->
+<!--   lang = c("r", "markdown"), -->
+<!--   all_precode = FALSE, -->
+<!--   position = c("top", "right"), -->
+<!--   color = "navyblue", -->
+<!--   tooltip_message = "copiar código", -->
+<!--   tooltip_success = "copiado!" -->
+<!-- ) -->
+
+<!-- ``` -->
+
+
+```{css echo=FALSE}
+/* Define a margin before h2 element */
+h2  {
+  margin-top: 4em;
+}
+
+/* Define a margin after every first p elements */
+p:first-of-type {
+  margin-bottom: 2em;
+}
+``` 
+
 
 ```{r}
 ## Color Format
@@ -42,27 +82,36 @@ colFmt <- function(x,color) {
 
 ```
 
-**[Prof. Wagner Tassinari (DEMAT/UFRRJ)](https://institucional.ufrrj.br/ruralpesquisa/wagner-de-souza-tassinari/)**
-
-email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 
 ```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="90%", comment=NA}
 knitr::include_graphics('rural.jpg')
+knitr::include_graphics('Capivaras.png')
 ```
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2022-2 (DEMAT/UFRRJ)
+## Professores:
+
+- Adriana Andrade (DEMAT/ICE/UFRRJ) (*andrade.ufrrj@gmail.com*)
+
+- Wagner Tassinari (DEMAT/ICE/UFRRJ) (*tassinari@ufrrj.br*)
+
 
 # Informações Gerais
 
-## Objetivo das Disciplinas 
+## Objetivo da Disciplina
 
-- Introduzir os conceitos básicos de estatística dando maior ênfase às aplicações nas diversas ciências.
+Apresentar uma visão geral dos principais modelos de regressão. A
+disciplina se inicia com uma breve apresentação sobre manipulação de
+bases de dados e análise exploratória, seguida por uma introdução sobre
+modelagem estatística. Serão abordados aspectos da modelagem de
+Regressão Linear, simples e múltipla, técnicas de predição pontual e
+intervalar, bem como análise da adequação e da qualidade do modelo. A
+disciplina inclui uma introdução aos Modelos de Regressão Generalizados,
+com a apresentação dos Modelos de Regressão Logística e o Modelo
+Poisson.
 
-## Formato das Disciplinas
+## Formato da Disciplina
 
-- O curso será no formato presencial.
-
-<!-- - O curso será composto de atividades **síncronas** (são atividades baseadas em encontros remotos professor-alunos de forma on line) e de atividades **assíncronas** (são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e etc). As aulas síncronas serão feitas via plataforma *Google Meet* durante o horário original da disciplina. Os dias das aulas síncronas estão indicadas na tabela abaixo contendo o cronograma do curso. O link para o acesso as aulas síncronas, estará disponível no sistema SIGAA/UFRRJ no tópico do primeiro dia de aula. -->
+- O curso será composto de atividades **síncronas** (são atividades baseadas em encontros remotos professor-alunos de forma on line) e de atividades **assíncronas** (são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e etc). As aulas síncronas serão feitas via plataforma *Google Meet* durante o horário original da disciplina. Os dias das aulas síncronas estão indicadas na tabela abaixo contendo o cronograma do curso. O link para o acesso as aulas síncronas, estará disponível no sistema SIGAA/UFRRJ no tópico do primeiro dia de aula.
 
 ## Sobre o pacote estatístico R 
 
@@ -72,394 +121,201 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** ([link](https://rstudio.com/products/rstudio/)), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
 
-\vspace{0.3mm}
+# Curso Extensão - Introdução à Análise de Dados no R
 
-- Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
+```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="40%", comment=NA}
+knitr::include_graphics('cursoR.png')
+```
 
-# Algumas Considerações
+Este é um curso de extenção ministrado pelos professores Diógenes Ferreira Filho e Manuel Francisco de Souza Pereira do DCEEX/IRT/UFRRJ.
+Neste curso é abordado desde a instalação do pacote estatístico R e da interface RStudio, análises básicas utilizando o R até o ambiente do universo do tidyverse e RMarkdown.
 
-### IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
+As videoaulas encontram-se disponíveis de forma aberta neste [canal do YouTube]( https://youtube.com/channel/UCRc5HRkgnq8swWSAUywDd5w).
 
 
-*Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:*
 
-*Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades...*
+# Programa da Disciplina
 
-*Art. 31 § 1o - Para as atividades remotas síncronas haverá aferição de assiduidade...*
+| Tópicos | Conteúdo                                         |
+| ------- | ------------------------------------------------ |
+| **1.**   | **Análise Exploratória de Dados com software R** |
+|         |                                                  |
+| **2.**   | **Modelo de Regressão Linear Simples**           |
+| **2.1.** | Estimação dos Parâmetros                         |
+| **2.2.** | ANOVA da Regressão                               |
+| **2.3.** | Intervalo de Confiança e de Predição             |
+| **2.4.** | Adequação do Ajuste                              |
+|         |                                                  |
+| **3.**   | **Regressão Linear Múltipla**                    |
+| **3.1.** | Estimação dos Parâmetros                         |
+| **3.2.** | Métodos de Seleção de Modelos                    |
+| **3.3.** | Adequação do Ajuste                              |
+| **3.4.** | Variáveis Dummy                                  |
+|         |                                                  |
+| **4.**   | **Modelo de Regressão Logística**                |
+| **4.1.** | Estimação dos Parâmetros do Modelo               |
+| **4.2.** | Interpretação do Modelo                          |
+| **4.3.** | Avaliação da Qualidade do Modelo                 |
+|         |                                                  |
+| **5.**   | **Modelo de Regressão de Poisson**               |
+| **5.1.** | Estimação dos Parâmetros do Modelo               |
+| **5.2.** | Interpretação do Modelo                          |
+| **5.3.** | Avaliação da Qualidade do Modelo                 |
 
 
-# Programa das Disciplinas
+# Avaliação da Disciplina
 
-- Introdução à Estatística
+- Seminário – 10/12/2021 
 
-- Apresentação dos dados em Tabelas
+**Obs:** Os seminários deverão ser feitos segundo as seguintes orientações: [link](https://drive.google.com/file/d/16Zm_795nPZHt888ZlrNv1QMw4zlCk_cD/view?usp=sharing)
 
-- Apresentação dos dados em Gráficos
+# Bibliografia
 
-- Medidas de Tendência Central
+-  Dohoo, I. R., Martin, W., & Stryhn, H. E. (2003). Veterinary epidemiologic research.
 
-- Medidas de Dispersão
+- Dobson , AJ (2001). An introduction to generalized linear models.
+Chapman & Hall/CRC.
 
-- Associação entre duas Variáveis
+- Faraway, J. Practical Regression and Anova using R (PDF, banco de
+dados e scripts disponível no site [link](https://julianfaraway.github.io/faraway/PRA/pra.pdf))
 
-- Introdução à Probabilidade
+- Fox, J (2002). An R and S-Plus Companion to Applied Regression. Sage
+Publications.
 
-- Variáveis Aleatórias Discretas e Contínuas
+- McCullagh P, Nelder JA (1989). Generalized linear models. Second
+Edition. Chapman and Hall.
 
-- Introduão à Inferência Estatística
+- Myers, Raymond H. et al. (2012) Generalized linear models: with
+applications in engineering and the sciences. John Wiley & Sons.
 
+- Venables WN, Ripley, BD (2002). Moderns Applied Statistics with S.
+Fourth Edition. Springer.
 
 
-# Avaliação das Disciplinas
+# Cronograma dos encontros síncronos
 
-- **P1** – 22/12/2022 
+- Todos os encontros síncronos serão às sextas-feiras a partir das 9hs.
 
-<!-- \vspace{0.3mm} -->
+|    Data    | Aula |                             Descrição                             |
+|:----------:|:----:|:-----------------------------------------------------------------:|
+| 05/11/2021 |   1  | Introdução do curso + Revisão Análise Exploratória de Dados (AED) |
+| 12/11/2021 |   2  | Modelo de Regressão Simples                                       |
+| 19/11/2021 |   3  | Modelo de Regressão Múltipla                                      |
+| 26/11/2021 |   4  | Modelo de Regressão Logística                                     |
+| 03/12/2021 |   5  | Modelo de Regressão de Poisson                                    |
+| 10/12/2021 |   6  | Apresentação dos Seminários                                       |
 
-<!-- - **Segunda chamada referente a P1** – 27/07/2022  -->
 
-\vspace{0.3mm}
-
-- **P2** – 02/03/2023
-
-\vspace{0.3mm}
-
-- **Segunda Chamada** – 07/03/2023
-
-\vspace{0.3mm}
-
-- **Optativa** – 14/03/2023
-
-\vspace{0.3mm}
-
-- A média final será composta pela nota da primeira e da segunda avaliação.
-
-\vspace{0.3mm}
-
-**OBS1:** Será aplicada apenas uma prova de segunda chamada (P1 ou P2).
-
-\vspace{0.3mm}
-
-**OBS2:** É facultativa ao aluno uma prova opcional (optativa), a ser realizada no encerramento do período, envolvendo toda a matéria lecionada. A nota obtida em prova opcional substituirá o de menor valor correspondente às verificações regulares durante o período, inclusive se o grau da prova optativa for
-inferior ao menor conceito obtido anteriormente, mas esta substituição deve resultar em média final igual ou superior a $5,0$ (cinco). [(Ver manual do estudante da UFRRJ)](https://portal.ufrrj.br/wp-content/uploads/2015/09/Manual-FINAL.pdf)
-
-
-# Bibliografias
-
-## Bibliografia Básica
-
--  Wilton O. Bussab; Pedro A. Morettin. **Estatística Básica**. Editora Saraiva
-
-\vspace{0.3mm}
-
--  Sonia Vieira. **Introdução à Bioestatística**. Editora Elsevier
-
-
-## Bibliografia Sugerida
-
-- [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://drive.google.com/file/d/1eo4CWWqZzNibXqNK4bfUxZXzqwEgufIl/view?usp=drivesdk)
-
-\vspace{0.3mm}
-
-- [Vu, J; Harrington, D. **Introductory Statistics for the Life and Biomedical Sciences**, 1ª edição. 2020.](https://leanpub.com/biostat)
-
-\vspace{0.3mm}
-
-- [Diez, DM; Barr, C D; Çetinkaya-Rundel M. **OpenIntro Statistics**, 3ª edição. 2015.](https://leanpub.com/openintro-statistics)
-
-# Instalando o pacote estatístico R + sua interface gráfica RStudio
-
-- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
-
-\vspace{0.3mm}
-
-- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
-
-\vspace{0.3mm}
-
-- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
-
-\vspace{0.3mm}
-
-- [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
-
-
-
-<!-- # Cronograma do Curso -->
-
-
-<!-- |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas | -->
-<!-- | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: | -->
-<!-- | **01/02** | `r colFmt("Apresentação da  Disciplina*",'blue')`   |   -   |      | **17/03** |            Introdução à Probabilidade            |   8   | -->
-<!-- | **03/02** |         Conceitos Básicos         |   1   |      | **22/03** |    `r colFmt("Introdução à Probabilidade*",'green')`    |   8   | -->
-<!-- | **08/02** | `r colFmt("Conceitos Básicos*",'blue')`  |   1   |      | **24/03** |               Variáveis Aleatórias               |   9   | -->
-<!-- | **10/02** |        Tabelas e Gráficos         | 2 e 3 |      | **29/03** |   `r colFmt("Variáveis Aleatórias*",'green')`  |   9   | -->
-<!-- | **15/02** | `r colFmt("Tabelas e Gráficos*",'blue')`  | 2 e 3 |      | **31/03** | Distribuições de Probabilidade para VA discretas |  10   | -->
-<!-- | **17/02** |        Medidas de Posição         |   4   |      | **05/04** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'green')`  |  10   | -->
-<!-- | **22/02** |  `r colFmt("Medidas de Posição*",'blue')`  |   4   |      | **07/04** | Distribuições de Probabilidade para VA contínuas |  11   | -->
-<!-- | **24/02** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/04** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'green')` |  11   | -->
-<!-- | **01/03** | `r colFmt("Carnaval",'gray')`| - |      | **14/04** |       Introdução à Inferência Estatística        |  12   | -->
-<!-- | **03/03** | Análise Bidimensional  | 7  |      | **19/04** |       `r colFmt("Introdução à Inferência Estatística*",'green')`       |  12   | -->
-<!-- | **08/03** | `r colFmt("Medidas de Dispersão e Assimetria e Revisão*",'green')`  |   5 e 6   |      | **26/04** |       `r colFmt("**Aula de Dúvidas** ***",'orange')`     |       | -->
-<!-- | **10/03** | `r colFmt("Análise Bidimensional e Revisão*",'green')`          |    7   |      | **28/04** |     `r colFmt("**P2** **",'red')`                   |       | -->
-<!-- | **15/03** |  `r colFmt("**P1** **",'red')`        |       |      | **03/05** |      `r colFmt("**Segunda chamada** **",'red')`    |       | -->
-<!-- |     -     |                 -                 |       |      | **05/05** |      `r colFmt("**Optativa** **",'red')`             |       | -->
-
-
-<!-- |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas | -->
-<!-- | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: | -->
-<!-- | **20/09** |  `r colFmt("Apresentação da  Disciplina*",'blue')`  |   -   |      | **03/11** |  `r colFmt("P1**",'red')`   |      | -->
-<!-- | **22/09** |         Conceitos Básicos         |   1   |      | **08/11** |  `r colFmt("Introdução à Probabilidade*",'blue')`            |   8   | -->
-<!-- | **27/09** | `r colFmt("Conceitos Básicos*",'blue')`         |   1   |      | **10/11** |               Variáveis Aleatórias               |   9   | -->
-<!-- | **29/09** |        Tabelas e Gráficos         | 2 e 3 |      | **17/11** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   | -->
-<!-- | **04/10** | `r colFmt("Tabelas e Gráficos*",'blue')`         | 2 e 3 |      | **22/11** | Distribuições de Probabilidade para VA discretas |  10   | -->
-<!-- | **06/10** |        Medidas de Posição         |   4   |      | **24/11** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')` |  10   | -->
-<!-- | **11/10** | `r colFmt("Ponto Facultativo***",'gray')`         |      |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   | -->
-<!-- | **13/10** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **01/12** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   | -->
-<!-- | **18/10** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **06/12** |       Introdução à Inferência Estatística        |  12     | -->
-<!-- | **20/10** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **08/12** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`        |  12   | -->
-<!-- | **25/10** |       Análise Bidimensional       |   7   |      |  **13/12** |     `r colFmt("P2**",'red')`                      |    | -->
-<!-- | **27/10** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **15/12** |     `r colFmt("Segunda chamada**",'red')`         |       | -->
-<!-- | **01/11** | `r colFmt("Ponto Facultativo***",'green')`        |      |      | **20/12** |  `r colFmt("Optativa**",'red')`         |       | -->
-
-
-
-<!-- ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')` -->
-
-<!-- ###### `r colFmt("  *As aulas presenciais estão escritas na cor verde marcadas com um asterístico.",'green')` -->
-
-<!-- ###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')` -->
-
-<!-- ###### `r colFmt("  ***Aula de revisão (prensencial e facultativa).",'orange')` -->
-
-<!-- ###### `r colFmt("  ****Ponto facultativo.",'green')` -->
-
-
-# Conteúdo das aulas
-
-## **Apresentação da disciplina**
+# **Aula 1: Revisão Análise Exploratória de Dados (AED)**
 
 - Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
 
-## **Aula 1:** Conceitos Básicos
+- Revisão sobre o conteúdo de análise exploratória de dados.
+
+- Não está prevista atividade assíncrona para esta aula.
+
+
+| Atividades |             Tipo de atividades            |        Links                          |
+|:----------:|:-----------------------------------------:|:---------------------------------------:|
+|  Síncrona  | Atividades síncronas a respeito da Aula 1 - Parte 1 | [link](Aula1/AED.html) |
+|  Síncrona  | Atividades síncronas a respeito da Aula 1 - Parte 2 |  [link](Aula1/AED2.html)  |
+|  Síncrona  | Banco de dados **daisy2.xlsx**                       | [link](https://drive.google.com/file/d/1nwylCqb4_gFkch4sPBYHIajlCoQ0VQAz/view?usp=sharing) |
+|  Síncrona  | Link para a sala de videoconferência **dia 05/11/2021 (sexta-feira) às 9hs**  |  [link](https://meet.google.com/vby-kyko-duu)  |
+
+
+# **Aula 2: Modelo de Regressão Linear Simples**
+
+
+
+| Atividades |                Tipo de Atividade                            | Links| 
+| :---------: | ---------------------------------------------------------- | :---: | 
+| Assíncrona | Videoaula sobre a Aula 2 - Parte 1  |  [link](https://drive.google.com/file/d/1ZKNZWS1sWYuDCq4P4gSjBHFd9o--KpP0/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 2 - Parte 1 |  [link](https://drive.google.com/file/d/1emcpP-hw132JDIwozLHCDANqBO85oYhN/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 2 - Parte 2 | [link](https://drive.google.com/file/d/1r8MlqzsnHysnyskQwUDfSqOpzII2dqW1/view?usp=sharing)   | 
+| Assíncrona | Slides sobre a Aula 2 - Parte 2 | [link](https://drive.google.com/file/d/1bNLCzcYpJHbNHZ1Kyd7cblwII2JC8omr/view?usp=sharing)   | 
+| Assíncrona | Videoaula sobre a Aula 2 - Parte 3 |  [link](https://drive.google.com/file/d/1zJdpwNU9Rnbtx2kyIIlNdYSiwTrVfnNh/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 2 - Parte 3 |  [link](https://drive.google.com/file/d/1ku45w7TFQbn0S1OKWoieGGzwPJHx1goF/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 2 - Parte 4  |  [link](https://drive.google.com/file/d/1tf1jT6HWvQ1c1DMDg0HZ3Ny0976SuYtu/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 2 - Parte 4 |  [link](https://drive.google.com/file/d/18YO8pwxqgNL2zB40j3c4gJN_tZrp3-ZI/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 2 - Parte 5 | [link](https://drive.google.com/file/d/1CrjzbBZLWyXcJnY1crTr9Vq4iqJ5MT7w/view?usp=sharing)   | 
+| Assíncrona | Slides sobre a Aula 2 - Parte 5 | [link](https://drive.google.com/file/d/1hNcmaNyujLilJFEwtw3ZWSVmRIuEzY7j/view?usp=sharing)   | 
+| Assíncrona | Videoaula sobre a Aula 2 - Parte 6 |  [link](https://drive.google.com/file/d/1zrJ40e0A0GIHGDlhUDp-ZKAVTQ9kSx9N/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 2 - Parte 6 |  [link](https://drive.google.com/file/d/1rG-seo9PI9rM_VG_1zkMZ6Fx-JD8f-_D/view?usp=sharing)  | 
+| Assíncrona | Lista de exercícios sobre a Aula 2 |  [link](https://drive.google.com/file/d/1eSeeZUeM2rWxdSPxhyRiBxNQId9VmP4I/view?usp=sharing)  |
+| Assíncrona | Gabarito da lista de exercícios sobre a Aula 2 |  [link](Aula2/Lista_1_Resolucao.html)  |
+|  Síncrona  | Atividades síncronas a respeito da Aula 2 | [link](Aula2/MRLS.html) |
+|  Síncrona  | Link para a sala de videoconferência **dia 12/11/2021 (sexta-feira) às 9hs**  |  [link](https://meet.google.com/eam-jwmk-phi)  |
+|  Síncrona  | Link para a sala de videoconferência  **dia 12/11/2021 (sexta-feira) às 14hs** `r colFmt(" **(Monitoria)** ",'blue')`  |  [link](https://meet.google.com/vby-kyko-duu)  |
+
+
+
+# **Aula 3: Modelo de Regressão Linear Múltipla**
+
+
+
+| Atividades |                Tipo de Atividade                            | Links| 
+| :---------: | ---------------------------------------------------------- | :---: | 
+| Assíncrona | Videoaula sobre a Aula 3 - Parte 1  |  [link](https://drive.google.com/file/d/1O3xua2wpSKiLwCrS9bBrebrBE2CvCTz8/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 3 - Parte 1 |  [link](https://drive.google.com/file/d/1L2n-NbcRr5nU2K1AO77QOUsoFNDhosmW/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 3 - Parte 2 | [link](https://drive.google.com/file/d/1_y1vM5ycVCilRyPUC95i5gxTaFIPtgd8/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 3 - Parte 2 | [link](https://drive.google.com/file/d/1Ubp3WKtt2dW6ekDALRF3D7TTKqISMWGc/view?usp=sharing)   | 
+| Assíncrona | Videoaula sobre a Aula 3 - Parte 3 |  [link](https://drive.google.com/file/d/1dLlmBrYpmQoD6tQ_v97tB3WTbFYcj_hr/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 3 - Parte 3 |  [link](https://drive.google.com/file/d/1tevhX14zFfO-5XRA4OLJg8-fD1Cf0OyX/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 3 - Parte 4  |  [link](https://drive.google.com/file/d/1GVbxf_I5uooByeyNYoH5aI8SSbFkFHDW/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 3 - Parte 4 |  [link](https://drive.google.com/file/d/1jh_A3OoDc-tX5JJ599YAijq-TQOKi0K5/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 3 - Parte 5 | [link](https://drive.google.com/file/d/1gbA3Mq8tMuAvgVzMpGOXp2XVISqeqldU/view?usp=sharing)   | 
+| Assíncrona | Slides sobre a Aula 3 - Parte 5 | [link](https://drive.google.com/file/d/1hB_rc5cvw7bpdC6P-qYljrhZu3-eslPz/view?usp=sharing)   | 
+| Assíncrona | Banco de dados **pig_adg.xlsx**  | [link](https://drive.google.com/file/d/1t2pg-0SChcSqtr1eGRDXLkw0VsX_BsXm/view?usp=sharing) |
+| Assíncrona | Lista de exercícios sobre a Aula 3 |  [link](https://drive.google.com/file/d/1xLTjUyQbo6nOkP07eBei1tG8R-1-HNQQ/view?usp=sharing)  |
+| Assíncrona | Gabarito da lista de exercícios sobre a Aula 3 |  [link](Aula3/Lista_2_Resolucao.html)  |
+|  Síncrona  | Atividades síncronas a respeito da Aula 3 | [link](Aula3/MRLM_sincrona.html) |
+|  Síncrona  | Link para a sala de videoconferência **dia 19/11/2021 (sexta-feira) às 9hs**  |  [link](https://meet.google.com/vby-kyko-duu)  |
+|  Síncrona  | Link para a sala de videoconferência  **dia 19/11/2021 (sexta-feira) às 14hs** `r colFmt(" **(Monitoria)** ",'blue')`  |  [link](https://meet.google.com/vby-kyko-duu)  |
+
+# **Aula 4: Modelo de Regressão Logística**
+
+
+| Atividades |                Tipo de Atividade                            | Links| 
+| :---------: | ---------------------------------------------------------- | :---: | 
+| Assíncrona | Videoaula sobre a Aula 4 - Parte 1  |  [link](https://drive.google.com/file/d/1YqG_0TzT7KC2PkT_B3llPMBB2hW46Uiv/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 4 - Parte 1 |  [link](https://drive.google.com/file/d/1cMvygUpCKBVVHHp9H9kN69EZNCb7_jBe/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 4 - Parte 2 | [link](https://drive.google.com/file/d/1YtKmuSVTwND9O_H0livy8iYNtKrbk1Md/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 4 - Parte 2 | [link](https://drive.google.com/file/d/1cb9K7j2T8qWnIjE6i1dqpocr76l8RPDY/view?usp=sharing)   | 
+| Assíncrona | Videoaula sobre a Aula 4 - Parte 3 |  [link](https://drive.google.com/file/d/1YvetsyJ2wO9b5P6ABmsKPCmwhVq8xXFO/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 4 - Parte 3 |  [link](https://drive.google.com/file/d/1ccqM12du3ZxQRaASSkIHavBjXndzvZYL/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 4 - Parte 4  |  [link](https://drive.google.com/file/d/1YvoQFys01sTtEWMk1jqCQyuK7sZWVD_A/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 4 - Parte 4 |  [link](https://drive.google.com/file/d/1clg3IUg2nLBNABE_CBQd2nqIcLqRMwU_/view?usp=sharing)  | 
+| Assíncrona | Banco de dados **nocardia.csv**  | [link](https://drive.google.com/file/d/1_ArjDcELr-rPmlBuP5oIEraT7lmG0uaB/view?usp=sharing) |
+| Assíncrona | Lista de exercícios sobre a Aula 4 |  [link](https://drive.google.com/file/d/1ntMb1XGFGRNM2Ss6EbBwFRD5q_QBc00k/view?usp=sharing)  |
+| Assíncrona | Gabarito da lista de exercícios sobre a Aula 4 |  [link](Aula4/Lista_3_Resolucao.html)  |
+|  Síncrona  | Atividades síncronas a respeito da Aula 4 | [link](Aula4/MRLOG.html) |
+|  Síncrona  | Link para a sala de videoconferência **dia 26/11/2021 (sexta-feira) às 9hs**  |  [link](https://meet.google.com/jzj-eopj-sux)  |
+|  Síncrona  | Link para a sala de videoconferência  **dia 26/11/2021 (sexta-feira) às 14hs** `r colFmt(" **(Monitoria)** ",'blue')`  |  [link](https://meet.google.com/vby-kyko-duu)
+
+
+# **Aula 5: Modelo de Regressão de Poisson**
+
+
+| Atividades |                Tipo de Atividade                            | Links| 
+| :---------: | ---------------------------------------------------------- | :---: | 
+| Assíncrona | Videoaula sobre a Aula 5 - Parte 1  |  [link](https://drive.google.com/file/d/1HBHJmoMNMONUADf8mTjLqQGTZLtjOZnG/view?usp=sharing)  |
+| Assíncrona | Slides sobre a Aula 5 - Parte 1 |  [link](https://drive.google.com/file/d/1HJJ2jiBAKRfDSAHGSiho0QfQinJA7_3K/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 5 - Parte 2 | [link](https://drive.google.com/file/d/1r0c_1KV-nwlzYsDi8epgo26NzrnYOE4l/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 5 - Parte 2 | [link](https://drive.google.com/file/d/12MdvM_nKUeUHcON1T4vW8cJVuLxE0Mru/view?usp=sharing)   | 
+| Assíncrona | Videoaula sobre a Aula 5 - Parte 3 |  [link](https://drive.google.com/file/d/1VtU438xSAKnUUve_wVMNHvT31ra-FioQ/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 5 - Parte 3 |  [link](https://drive.google.com/file/d/1eLrl7ZR7OnjBj4JoZpryl98ujI03UK-i/view?usp=sharing)  | 
+| Assíncrona | Videoaula sobre a Aula 5 - Parte 4  |  [link](https://drive.google.com/file/d/1KuzSRgNKZ4scjRv0kf6I0YqNTYfiPqP7/view?usp=sharing)  | 
+| Assíncrona | Slides sobre a Aula 5 - Parte 4 |  [link](https://drive.google.com/file/d/1KRwzC9zn-AFUtxfHA51mENSFpiMUp0pR/view?usp=sharing)  | 
+| Assíncrona | Banco de dados **fec.xlsx**  | [link](https://drive.google.com/file/d/1lC3yTEIfSS3O5gyYBQ38GYMZjMcUKaRu/view?usp=sharing) |
+| Assíncrona | Lista de exercícios sobre a Aula 5 |  [link](https://drive.google.com/file/d/1HkBFk_DujfLIl6lyOqD1pfZPVL88qrJz/view?usp=sharing)  |
+| Assíncrona | Gabarito da lista de exercícios sobre a Aula 5 |  [Em breve !]()  |
+|  Síncrona  | Atividades síncronas a respeito da Aula 5 | [link](Aula5/Poisson_sincrona.html) |
+|  Síncrona  | Link para a sala de videoconferência **dia 03/12/2021 (sexta-feira) às 9hs**  |  [link](https://meet.google.com/vby-kyko-duu)  |
+|  Síncrona  | Link para a sala de videoconferência  **dia 03/12/2021 (sexta-feira) às 14hs** `r colFmt(" **(Monitoria)** ",'blue')`  |  [link](https://meet.google.com/vby-kyko-duu)
 
-- Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística, são eles: introdução aos somatórios, cálculo do fatorial e análise combinatória. 
 
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
+# Orientações para os Seminários
 
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.  -->
+- Os seminários deverão ser feitos segundo as seguintes orientações: [link](https://drive.google.com/file/d/16Zm_795nPZHt888ZlrNv1QMw4zlCk_cD/view?usp=sharing)
 
-
-| Atividades |                Tipo de Atividade                            | Links|
-| :---------: | ---------------------------------------------------------- | :---: |
-| Videoaula | Videoaula sobre a Aula 1 - Vídeo 1  |  [link](https://drive.google.com/file/d/1e9khuzCrrjK95u0vi64GNrhrn2q_V1qU/view?usp=drivesdk)  |
-| Videoaula | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://drive.google.com/file/d/1gaEOHuBlWcUTjJ3u3rJILr4K99VY9_m5/view?usp=drivesdk)  |
-| Videoaula | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://drive.google.com/file/d/1uI6AxGQ2-FKWjvJiNO2J4p9bHaM158hU/view?usp=drivesdk)   |
-| Slides | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/1MEKmWA_G1wXg8FG5bgfC92AhIOs4YWIo/view?usp=drivesdk)   |
-| Exercícios | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1JY_3_bRzxALrZ5FLSzF0YM0iS72ZKdNJ/view?usp=drivesdk)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 1 |  [link](https://drive.google.com/file/d/1y18btGwSEf398IHLlUHFRHSLCm8E9B2L/view?usp=sharing)  |
-| Script | Script do R a respeito da Aula síncrona 1 |  [link](https://drive.google.com/file/d/1pkc_8I69QBnj6EdF4440k-MLsU2yeQZ7/view?usp=sharing)  |
-
-
-
-## **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos
-
-- Nessas aulas, serão apresentados técnicas de como se apresenta os dados organizados em tabelas e em gráficos.
-
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :----: |
-|  -          | **Apresentção dos dados em tabelas** |    |
-| Videoaula | Videoaula sobre a Aula 2 - Vídeo 1  |  [link](https://drive.google.com/file/d/12fbuxcy6udHU6wUV_jQ9-EeQxCQ4eyif/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 2 - Vídeo 2 |  [link](https://drive.google.com/file/d/1HO8xjEB2LMdWA-0uYw_e9tsayDZHtqE2/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 2 - Vídeo 3 | [link](https://drive.google.com/file/d/1EocPxFLLfQfQISvuP_zcJ-UHVAUQot-W/view?usp=sharing)   |
-| Slides | Slides sobre a Aula 2 | [link](https://drive.google.com/file/d/1dmaVVeVi55ivVFhYZRelfRvoiI0PkirK/view?usp=sharing)   |
-|  -          | **Apresentção dos dados em gráficos** |    |
-| Videoaula | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://drive.google.com/file/d/1FHYc6wYByDdtvL_evH1fZXO1oXdQC8EJ/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://drive.google.com/file/d/1m8ro_zrRHbP6sxTMchUmaZuakaFGYCB2/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 3 | [link](https://drive.google.com/file/d/1Px3KZddnCooUu0VAUcrt9QadgUEdPtR4/view?usp=sharing)   |
-|  -          | **-** |    |
-| Exercícios | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1oFBH01pu3OOznx1cDCWLF2EPGHE4lxKC/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito das Aulas 2 e 3 |  [link](https://drive.google.com/file/d/1_wIxJAMTAeOWVSu_1i9IR6inm1IQwAGH/view?usp=sharing)  |
-| Script | Script do R a respeito da Aula síncrona 2 e 3 |  [link](https://drive.google.com/file/d/1G63r6G0YPBM_EHkaDKI3E-vIPyeS_4_j/view?usp=sharing)  |
-
-
-## **Aula 4:** Medidas de posição e medidas separatrizes
-
-- Para esta aula serão mostrados algumas medidas de posição (ou tendência central) + algumas medidas separatrízes. Além de apresentar como e quando aplicar cada  uma dessas medidas, é mostrado suas vantangens e desvantagens.
-
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividades  |       Tipo de Atividade                                      | Links|
-| :---------: | ------------------------------------------------------------ | :---:|
-| Videoaula | Videoaula sobre a Aula 4 - Vídeo 1  |  [link](https://drive.google.com/file/d/1t9uWQS8Q_4LeQSkur5cHbtS4FNWA68wT/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 4 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OdpTUFSqsFXGTMmDzV4X5BcOLOnUAOXr/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 4 - Vídeo 3 | [link](https://drive.google.com/file/d/1hCUUAiTk3jHQBmF6oKD84ygo7zuhgHm3/view?usp=sharing)   |
-| Videoaula | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://drive.google.com/file/d/1QSkCiidgjOhFoZVA3wJ1jd5HCYZz7R09/view?usp=sharing)   |
-| Slides | Slides sobre a Aula 4 | [link](https://drive.google.com/file/d/1MN4C_O_pwFysI2eTOY-MAGLfkY0YG-K1/view?usp=sharing)   |
-| Exercícios | Lista de exercícios sobre a Aula 4 | [link](https://drive.google.com/file/d/1qtW6AV6Q2OxQrXugMlDatLLNyohjBuNS/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 4 | [link](https://drive.google.com/file/d/1fp_0wfdOlH1BY8zcG3T3DS0cWzbhWY-S/view?usp=sharing)  |
-| Script | Script do R a respeito da Aula síncrona 4 |  [link](https://drive.google.com/file/d/1REhk4TowwN1E3R8K6pA-sa_kIk8hCj8r/view?usp=sharing)  |
-
-## **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose
-
-- Nessas aulas, serão apresentados as principais medidas de variabiliade, as medidas de Simetria e Curtose, como se constroi um *BoxPlot*, e como é feito o cálculo para a detecção de *OutLiers*.
-
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividade  |       Tipo de Atividade                                       | Links|
-| :---------: | ------------------------------------------------------------ | :---:|
-|  -          | **Medidas de dispersão** |    |
-| Videoaula | Videoaula sobre a Aula 5 - Vídeo 1  |  [link](https://drive.google.com/file/d/15STlyBwBRHOa_gOe5xQqzYsdZ8S4Lndc/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 5 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OWEb_roUFVNoWOUoz42jiMHodKfV7YrB/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 5 - Vídeo 3 | [link](https://drive.google.com/file/d/1mB2b1jMlSqW1F0V3L-aivoWW8O54e6IA/view?usp=sharing)   |
-| Slides | Slides sobre a Aula 5 | [link](https://drive.google.com/file/d/1rN0dOCIQOi23Yt1q8T-DfGWFxfRPn8IO/view?usp=sharing)   |
-|  -          | **Medidas de assimetria e curtose + boxplot** |    |
-| Videoaula | Videoaula sobre a Aula 6 - Vídeo 1  |  [link](https://drive.google.com/file/d/1x0G3asedA0-piFvla_oXZz93ofQyHwN8/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 6 - Vídeo 2 |  [link](https://drive.google.com/file/d/1iQvBFw_bwqF2u3GioWocgu8mie32V4BW/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://drive.google.com/file/d/1ySw28-WKRqBaLGmDw3KOBx7V-XNnfboK/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 6 | [link](https://drive.google.com/file/d/1BlijIVVbV3cTIQ1VpODvHugDbhx3cmf1/view?usp=sharing)   |
-|  -          | **-** |    |
-| Exercícios | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1qxkXV-uLpdfUcMkt0JSCBOCh921S80Or/view?usp=sharing)  |
-| Script | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  |
-
-
-## **Aula 7:** Análise Bidimensional (ou medidas de associação)
-
-- Para esta aula serão mostrados algumas medidas mais usuais para investigar a associação entre variáveis qualitativas e quantitativas, são elas: 
-    
-    1) Para variáveis qualitativas ou categóricas: Estatística de Qui-Quadrado e o coeficiente de Contingência de Pearson;
-    2) Para variáveis quantitativas: Diagrama de Dispersão e o Coeficiente de Correlação Linear de Pearson.
-
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividades  |       Tipo de Atividade                                      | Links |
-| :---------: | ------------------------------------------------------------ | :---: |
-| Videoaula | Videoaula sobre a Aula 7 - Vídeo 1  |  [link](https://drive.google.com/file/d/199RNuven_68lYj1vup9v6EuB2IzXFnxl/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://drive.google.com/file/d/1VKCl8RDGw23hAamLM27LG1ir7xLm3QBE/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 7 | [link](https://drive.google.com/file/d/1TIoHctWDjDlCmmjEsl8fx9BLWXhPqlWo/view?usp=sharing)   |
-| Exercícios | Lista de exercícios sobre a Aula 7 | [link](https://drive.google.com/file/d/1B0f3eHRqyZ64LvAJdTb-cm-XSYz2-ach/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 7 | [link](https://drive.google.com/file/d/1-CPNf4iRZV6ZLgz69v9vIerxbop5OBBr/view?usp=sharing)  |
-| Script | Script do R a respeito das Aulas síncrona 7 |  [link](https://drive.google.com/file/d/14_YFgCF_IH3V1QNS3YEeJJBd-fqL7VZB/view?usp=sharing)  |
-
-
-## **Aula 8:** Introdução à probabilidade
-
-- Para esta aula serão apresentados alguns conceitos de teoria da probabilidade, explorando os seguintes tópicos: experimento aleatório, espaço amostral, eventos, probabilidade condicional, teorema da probabilidade total e teorema de Bayes.
-    
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividades  |       Tipo de Atividade                                     | Links |
-| :---------: | ------------------------------------------------------------ | :---: |
-| Videoaula | Videoaula sobre a Aula 8 - Vídeo 1  |  [link](https://drive.google.com/file/d/1yNJFlxcP2-CHhtPHzldGPjYM8lWqj4vG/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 8 - Vídeo 2 |  [link](https://drive.google.com/file/d/15nEM6w0nxJlmxA-2hO0cK1u-CXALZdOQ/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://drive.google.com/file/d/1VVv5E3BY6VkZc1-9Psa7ORLypqku82B5/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://drive.google.com/file/d/1aAEgnEChR5ICrZjIouO5InS2ZGHTmP-2/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   |
-| Exercícios | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/11xOziWbflgb03HnSS65FiE0fNRDpGMyN/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 8 | [link](https://drive.google.com/file/d/1j3LJEgES5ncZ6dvzL7kEDagSshyh4YVt/view?usp=sharing) |
-
-## **Aula 9:** Variáveis aleatórias
-
-- Para esta aula serão apresentados alguns conceitos a respeito de variáveis aleatórias, mais especificamente va discretas, e de seus principais parâmetros característicos (esperança, variância e desvio padrão)
-    
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividades  |       Tipo de Atividade                                      | Links |
-| :---------: | ------------------------------------------------------------ | :---: |
-| Videoaula | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   |
-| Exercícios | Exercícios de fixação a respeito da Aula 9 | [link](https://drive.google.com/file/d/1incQSO5YdjQcF1d8_jWkftAFotFNEsC-/view?usp=sharing)  |
-
-`r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
-
-
-## **Aula 10:** Distribuições de probabilidade para VA discretas
-
-- Para esta aula serão apresentados alguns modelos de probabilidade para variáveis aleatórias discretas, modelos de Bernoulli e modelo Binomial, e seus principais parâmetros característicos (esperança, variância e desvio padrão)
-    
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividades  |       Tipo de Atividade                                      | Links |
-| :---------: | ------------------------------------------------------------ | :---: |
-| Videoaula | Videoaula sobre a Aula 10 - Vídeo 1  |  [link](https://drive.google.com/file/d/164ZnngH-G8eDTBDpRO6UKOHx8Yn-xW-k/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://drive.google.com/file/d/1yweWP5UolLKuSHnJXDSGKfr_lUD-VrFe/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://drive.google.com/file/d/1-FegzRhdQgJj_4KF4un7d__uOr6WcCYh/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   |
-| Exercícios | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 10 | [link](https://drive.google.com/file/d/1_w9pC70NYY3nD5zp_uyKpMsEfI5ng-_K/view?usp=sharing) |
-| Script | Script do R a respeito da Aula síncrona 10 |  [link](https://drive.google.com/file/d/1Ogphfd4NUp_swvzR4bD1b3MaLu7kTfec/view?usp=sharing)  |
-
-
-## **Aula 11:** Distribuições de probabilidade para VA contínuas
-
-- Para esta aula serão apresentados um modelo de probabilidade para variáveis aleatórias contínuas, o modelos de distribuição normal.
-    
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividades  |       Tipo de Atividade                                      | Links |
-| :---------: | ------------------------------------------------------------ | :---: |
-| Videoaula | Videoaula sobre a Aula 11 - Vídeo 1  |  [link](https://drive.google.com/file/d/1A8fkhbDF8Hx6iWPAzY2S9cEFH8e2ibIJ/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 11 - Vídeo 2 |  [link](https://drive.google.com/file/d/16hg4-vVst8ySrFJq9oDaMTKbhC756MDP/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 11 - Vídeo 3  |  [link](https://drive.google.com/file/d/1K_eqFn5_0qFPrsaNdq8RHy9YrQ5yL18T/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://drive.google.com/file/d/1JZ4cHhU63P9KwTt0qOZQdUqNcQyk0o_9/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 11 | [link](https://drive.google.com/file/d/1t8HIqfSiWycyAtGZn-s_-JbyFNNpDIR5/view?usp=sharing)   |
-| Exercícios | Lista de exercícios sobre a Aula 11 | [link](https://drive.google.com/file/d/1mU22lJZhQb149iM5t67SXopG2eUv8UNb/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 11 | [link](https://drive.google.com/file/d/1YpH0azmQ5z2-RWVpu7m6BiLcxmyU256C/view?usp=sharing) |
-| Script | Script do R a respeito da Aula síncrona 11 |  [link](https://drive.google.com/file/d/1AghAPAEj_EZA_AZTFudorvXE_z97dGx9/view?usp=sharing)  |
-
-
-**Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
-
-## **Aula 12:** Introdução à inferência estatística
-
-- Para esta aula serão apresentados alguns conceitos básicos para a intodução à inferência estatística. Apenas iremos explorar a elaboração do intervalo de confiança para a média populacional supondo a variância populacional conhecida.
-    
-<!-- - Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios).  -->
-
-<!-- - Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. -->
-
-| Atividades  |       Tipo de Atividade                                      | Links |
-| :---------: | ------------------------------------------------------------ | :---: |
-| Videoaula | Videoaula sobre a Aula 12 - Vídeo 1  |  [link](https://drive.google.com/file/d/1LCqugFPFXshgiH3o3x38y9vAukQbuwWz/view?usp=sharing)  |
-| Videoaula | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://drive.google.com/file/d/1tnmvpRlA4emPvsGhsmIEITdKLj8e0iKf/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 12 | [link](https://drive.google.com/file/d/1waFMcrBp4LZeVATVkISRn0c_H8QJwWKZ/view?usp=sharing)   |
-| Exercícios | Lista de exercícios sobre a Aula 12 | [link](https://drive.google.com/file/d/1abvCPMcirvNn-6QLHWbaTHmil_T0dAAW/view?usp=sharing) |
-| Exercícios | Exercícios de fixação a respeito da Aula 12 | [link](https://drive.google.com/file/d/14o36ltHT2csUvTgvXjMIiJh63dcoZ4XV/view?usp=sharing) |
-| Script | Script do R a respeito da Aula síncrona 12 |  [link](https://drive.google.com/file/d/1KNu1ksBK-W8xGIJoimTXJFSha7aNvwFi/view?usp=sharing)  |
-
-
-**Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://drive.google.com/file/d/12ol6RITErfiXuTeLjtW1kPQFYc8VOZFf/view?usp=sharing)
-
-
-<!-- # Orientações para a elaboração das provas -->
-
-<!-- - As provas deverão ser feitas segundo as seguintes orientações: [link](https://drive.google.com/file/d/1cMt2KMc1isKqL3eShs9S1ENNfp8c8ybj/view?usp=sharing) -->
-
-<!-- - Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com a resolução das questões da prova: [link](https://drive.google.com/file/d/1-wQQrEqieHMm-y6uXNsv7oSoa1BMS66s/view?usp=sharing) -->
-
-<!-- ## ATENÇÃO !!!!!!!!!! -->
-
-<!-- - **Prova de segunda chamada:** Quem for fazer a prova de segunda chamada, basta enviar um email até domingo (dia 22/08), e no assunto do email colocar: `r colFmt("PROVA SEGUNDA CHAMADA ",'red')`. No conteúdo do email colocar o nome completo, turma e qual será a prova, ou seja, segunda chamada referente a P1 ou a P2. -->
-
-<!-- - **Prova Optativa:** Quem for fazer a prova optativa, basta enviar um email até o dia 01/09, e no assunto do email colocar: `r colFmt("PROVA OPTATIVA ",'red')`. No conteúdo do email colocar o nome completo e a turma. -->
 
