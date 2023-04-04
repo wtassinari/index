@@ -1,6 +1,6 @@
 ---
 title: "Disciplinas de Estatística Básica e Introdução à Bioestatística "
-subtitle: "Amanhã (03/11/2022) Não haverá aula de Estatística Básica !!!!!!!!!!!!!!!!!!!!!!"
+subtitle: 
 date: ""
 output:
   rmdformats::readthedown:
@@ -51,7 +51,7 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 knitr::include_graphics('rural.jpg')
 ```
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2022-2 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2023-1 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -113,7 +113,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 22/12/2022 
+- **P1** – 25/05/2023 
+
+- Segunda chamada - **P1** – 13/06/2023 
 
 <!-- \vspace{0.3mm} -->
 
@@ -121,23 +123,23 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 \vspace{0.3mm}
 
-- **P2** – 02/03/2023
+- **P2** – 18/07/2023
 
 \vspace{0.3mm}
 
-- **Segunda Chamada** – 07/03/2023
+- Segunda chamada - **P2** – 25/07/2023 
 
 \vspace{0.3mm}
 
-- **Optativa** – 14/03/2023
+- **Optativa** – 01/08/2023
 
 \vspace{0.3mm}
 
 - A média final será composta pela nota da primeira e da segunda avaliação.
 
-\vspace{0.3mm}
+<!-- \vspace{0.3mm} -->
 
-**OBS1:** Será aplicada apenas uma prova de segunda chamada (P1 ou P2).
+<!-- **OBS1:** Será aplicada apenas uma prova de segunda chamada (P1 ou P2). -->
 
 \vspace{0.3mm}
 
