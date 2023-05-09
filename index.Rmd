@@ -113,7 +113,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 25/05/2023 
+- **P1** – 01/06/2023 
+
+\vspace{0.3mm}
 
 - Segunda chamada - **P1** – 13/06/2023 
 
