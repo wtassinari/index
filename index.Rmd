@@ -335,7 +335,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Exercícios | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  |
 | Exercícios | Exercícios de fixação a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1qxkXV-uLpdfUcMkt0JSCBOCh921S80Or/view?usp=sharing)  |
 | Script | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  |
-
+| Exercícios | **Lista extra de exercícios** de fixação a respeito das Aulas 1, 2, 3, 4, 5 e  6 |  [link](https://drive.google.com/file/d/1I2QQCXe-uYnEtUu_8ebuNZRRSYe7hwXm/view?usp=share_link)  |
 
 ## **Aula 7:** Análise Bidimensional (ou medidas de associação)
 
