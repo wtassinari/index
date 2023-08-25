@@ -51,7 +51,7 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 knitr::include_graphics('rural.jpg')
 ```
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2023-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2023-2 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -113,11 +113,11 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 01/06/2023 
+- **P1** – 19/10/2023 
 
 \vspace{0.3mm}
 
-- Segunda chamada - **P1** – 13/06/2023 
+- Segunda chamada - **P1** – 26/10/2023 
 
 <!-- \vspace{0.3mm} -->
 
@@ -125,15 +125,15 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 \vspace{0.3mm}
 
-- **P2** – 18/07/2023
+- **P2** – 12/12/2023
 
 \vspace{0.3mm}
 
-- Segunda chamada - **P2** – 25/07/2023 
+- Segunda chamada - **P2** – 19/12/2023 
 
 \vspace{0.3mm}
 
-- **Optativa** – 01/08/2023
+- **Optativa** – 21/12/2023
 
 \vspace{0.3mm}
 
