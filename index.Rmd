@@ -388,7 +388,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ------------------------------------------------------------ | :---: |
 | Videoaula | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  |
 | Videoaula | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   |
+| Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1QiRC_KRIAentsXCDmHG-fHm7DFppx9G5/view?usp=sharing)   |
 | Exercícios | Exercícios de fixação a respeito da Aula 9 | [link](https://drive.google.com/file/d/1incQSO5YdjQcF1d8_jWkftAFotFNEsC-/view?usp=sharing)  |
 
 `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
