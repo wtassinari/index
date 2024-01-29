@@ -113,11 +113,11 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 19/10/2023 
+- Primeira Avaliação - **P1**: 16/04/2024 
 
 \vspace{0.3mm}
 
-- Segunda chamada - **P1** – 26/10/2023 
+- Segunda chamada - **P1**: 23/04/2024 
 
 <!-- \vspace{0.3mm} -->
 
@@ -125,15 +125,15 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 \vspace{0.3mm}
 
-- **P2** – 12/12/2023
+- Segunda Avaliação - **P2**: 11/06/2024
 
 \vspace{0.3mm}
 
-- Segunda chamada - **P2** – 19/12/2023 
+- Segunda chamada - **P2**: 18/06/2024 
 
 \vspace{0.3mm}
 
-- **Optativa** – 21/12/2023
+- Prova **Optativa**: 25/06/2024
 
 \vspace{0.3mm}
 
