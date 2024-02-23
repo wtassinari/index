@@ -51,7 +51,7 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 knitr::include_graphics('rural.jpg')
 ```
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2023-2 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2024-1 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
